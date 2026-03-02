@@ -1,8 +1,5 @@
-Welcome, this archive is now defunct
+Welcome, this is a fork of llamaqwerty fortnite build archive, im just gonna add maybe a few build links that may not even work :)
 
-Due to recent severe issues going on with me, I don't have the will to continue this any longer
-
-Thanks for everything ❤️
 
 ## Online Testing
 | Build | Download | Alternative Download | Alternative Download
