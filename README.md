@@ -1,4 +1,4 @@
-Welcome, this is a fork of llamaqwerty fortnite build archive, im just gonna add maybe a few build links that may not even work :), but i'll keep updating this.
+Welcome, this is a fork of llamaqwerty fortnite build archive, im just gonna add build links that have not been added by llama, but i'll keep updating this.
 
 
 ## Online Testing
