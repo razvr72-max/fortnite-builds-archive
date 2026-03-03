@@ -9,9 +9,6 @@ Welcome, this is a fork of llamaqwerty fortnite build archive, im just gonna add
 - A Real Potato for build 31.40
 - ploosh.dev and ploosh (not sure if their the same person) for builds, ploosh.dev:26.30-CL-28688692, Main-CL-21452241, ploosh:26.30-CL-28798412
 
-<details>
-  <summary><h2>Other</h2></summary>
-
 ## Other
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
@@ -65,5 +62,3 @@ Welcome, this is a fork of llamaqwerty fortnite build archive, im just gonna add
 
 ## Manifest
 | Polynite | https://github.com/polynite/fn-releases
-
-</details>
