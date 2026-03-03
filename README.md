@@ -2,7 +2,7 @@ Welcome, this is a fork of llamaqwerty fortnite build archive, im just gonna add
 
 the other stuff section has been moved to the 2nd branch, if you can find it just press this link, https://github.com/razvr72-max/fortnite-builds-archive/tree/Other
 
-## Credits to:
+## Credits to: (i got these names from fortforge.com since i didnt know who made the download links)
 - Llamaqwerty for some of the main builds added
 - jalen for most the builds that are on here (i think, im still not sure correct me if im wrong)
 - Pakked for some recent builds and og builds
