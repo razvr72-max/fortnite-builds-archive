@@ -1,4 +1,4 @@
-Welcome, this is a fork of llamaqwerty fortnite build archive, im just gonna add build links that have not been added by llama, but i'll keep updating this. (pls star ⭐ this i'd really appreciate it)
+Welcome, this is a fork of llamaqwerty fortnite build archive, im just gonna add build links that have not been added by llama, but i'll keep updating this. (pls star ⭐ this i'd really appreciate it) also if there are missing builds that im missing make a pull request
 
 the other stuff section has been moved to the 2nd branch, if you cant find it just press this link, https://github.com/razvr72-max/fortnite-builds-archive/tree/Other
 
