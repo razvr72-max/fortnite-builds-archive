@@ -16,6 +16,10 @@ Welcome, this is a fork of llamaqwerty fortnite build archive, im just gonna add
 | QAGame UE5.2 | https://archive.org/download/QAGame/QAGame.rar |
 | Main-CL-21452241 | https://r2.ploosh.dev/%2B%2BFortnite%2BMain-CL-21452241-PF-ed8a.zip |
 | ++Fortnite+Release-Cert-CL-3472997-XboxOne (31.10 Dev) | Unavailable |
+| 5.10-CL-4240749 China Version | https://drive.google.com/file/d/1OcSXucBPTIm3_nnTLX_eUb5usalsdeok/view?usp=sharing
+| 7.01-CL-4644078 China Version | https://archive.org/details/7.01-cl-4644078-china.-7z
+| 7.10-CL-4667012 China Version | https://drive.google.com/file/d/1xAoICjEc0qVCARbh6v6xX1hq0b-yYjxU/view
+| 18.30-CL-17882303 China Version | https://archive.org/details/18.30-cn.-7z
 | OT1 (4.?.0-???????) | Lost |
 | OT1 (4.7.0-2479600) | Lost |
 | OT3 (4.8.0-2604755) | Lost |
