@@ -2,14 +2,8 @@ Welcome, this is a fork of llamaqwerty fortnite build archive, im just gonna add
 
 the other stuff section has been moved to the 2nd branch, if you cant find it just press this link, https://github.com/razvr72-max/fortnite-builds-archive/tree/Other
 
-## Credits to: (i got these names from fortforge.dev since i didnt know who made the download links)
-- Llamaqwerty for some of the main builds added
-- jalen for most the builds that are on here (i think, im still not sure correct me if im wrong)
-- Pakked for some recent builds and og builds
-- electric_dragon for builds 38.10, 38.00
-- fn-builds.repressoh.it for some of lost builds which could not be found, a LOT of builds this guy has uploaded
-- A Real Potato for build 31.40
-- ploosh.dev and ploosh (not sure if their the same person) for builds, ploosh.dev: 26.30-CL-28688692, Main-CL-21452241, ploosh: 26.30-CL-28798412
+## Note:
+- None of these builds that are here aren't mine, credit goes to the people that made these download links
 
 # Errors
 - If i made any errors like putting builds in the wrong spot make a issue for it and tell me where its supposed to be and i'll put it in the right spot
@@ -248,7 +242,7 @@ the other stuff section has been moved to the 2nd branch, if you cant find it ju
 |--------------|---------------|---------------|---------------|
 | 13.00-CL-13649278 | https://public.simplyblk.xyz/13.00.rar |
 | 13.00-CL-13696059 | Lost |
-| 13.00-CL-13715544 | https://archive.org/download/fortnite-cl-13715544/Fortnite-cl-13715544.7z |
+| 13.00-CL-13715544 | https://archive.org/download/fortnite-cl-13715544/Fortnite-cl-13715544.7z | https://fn-builds.repressoh.it/13.00-CL-13715544.7z
 | 13.20-CL-13777676 | https://public.simplyblk.xyz/13.20.rar |
 | 13.30-CL-13884634 | https://public.simplyblk.xyz/13.30.rar |
 | 13.40-CL-14008768 | Lost |
