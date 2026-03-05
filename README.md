@@ -491,7 +491,7 @@ the other stuff section has been moved to the 2nd branch, if you cant find it ju
 | 29.30-CL-32982357 | https://cold-na-phx-2.gofile.io/download/web/39d52172-deb2-4d85-a1cf-6821276272a5/29.30-CL-32982357.7z |
 | 29.40-CL-33291686 | https://fn-builds.repressoh.it/29.40-CL-33291686.rar |
 | 29.40-CL-33502036 | https://fn-builds.repressoh.it/29.40-CL-33502036.rar |
-| 29.40-CL-33629566 | https://fn-builds.repressoh.it/29.40.rar |
+| 29.40-CL-33629566 | https://fn-builds.repressoh.it/29.40.rar | https://gofile.io/d/uXtYnG
 
 ## Season 30
 | Build | Download | Alternative Download | Alternative Download
