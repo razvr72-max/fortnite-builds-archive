@@ -3,8 +3,11 @@ Welcome, this is a fork of llamaqwerty fortnite build archive, im just gonna add
 the other stuff section has been moved to the 2nd branch, if you cant find it just press this link, https://github.com/razvr72-max/fortnite-builds-archive/tree/Other
 
 ## Note:
-- Credits go Ka Pum on discord for his Fortnite China Archive
-- More credits coming soon
+- Credits go Ka Pum on discord for his Fortnite China Archive, also for giving me 12.30 (China Version) download link which was one of the missing builds for the china archive
+- Credits to ploosh for many builds here, but 2 specificaly are 26.30-28688692, and 26.30-28509302
+- Credits go Pak for many og builds and some recent ones as well
+- More Credits soon
+
 # Errors
 - If i made any errors like putting builds in the wrong spot make a issue for it and tell me where its supposed to be and i'll put it in the right spot
 
