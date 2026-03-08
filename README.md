@@ -11,7 +11,7 @@ the other stuff section has been moved to the 2nd branch, if you cant find it ju
 # Errors
 - If i made any errors like putting builds in the wrong spot make a issue for it and tell me where its supposed to be and i'll put it in the right spot
 
-## Pre-Season
+## Chapter 1 Season 0
 | Build | Download | Alternative Download | Alternative Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|---------------|---------------|
 | Cert (Cert-CL-3532353) (Windows, Windows) | https://archive.org/download/fortnite-cert-cl-3532353-1.-7z/%2B%2BFortnite%2BCert-CL-3532353%20%281%29.7z | https://drive.google.com/file/d/1F3KgNqWWRL4dXAyAFQcEBWiojdSejK37/view | https://archive.thedatadungeon.com/fortnite_2017/builds/2017-07-20_microsoft_windows_cert-cl-3532353/fortnite.7z | https://fn-builds.repressoh.it/%2B%2BFortnite%2BCert-CL-3532353.7z | https://archive.org/download/fn-v0-archive/Cert-CL-3532353.zip
@@ -36,7 +36,7 @@ the other stuff section has been moved to the 2nd branch, if you cant find it ju
 | 1.7.1 | Lost |
 | 1.7.2 (Release-Cert-CL-3700114) | https://public.simplyblk.xyz/1.7.2.zip | https://builds.rebootfn.org/1.7.2.zip | https://drive.google.com/file/d/1A3Y2werWd5mlbp2MlUeP8NL5sEXy8lOn/view | https://archive.org/download/fn-v0-archive/1.7.2-CL-3700114.zip
 
-## Season 1
+## Chapter 1 Season  1
 | Build | Download | Alternative Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|---------------|
 | 1.8.0 (Release-Live-CL-3724489) | https://public.simplyblk.xyz/1.8.rar | https://builds.rebootfn.org/1.8.rar | https://archive.org/download/1.8_20241223/1.8.rar |
@@ -47,7 +47,7 @@ the other stuff section has been moved to the 2nd branch, if you cant find it ju
 | Unknown Build (Release-Cert-CL-3785438) | Lost |
 | 1.10.0 (Release-Cert-CL-3790078) | https://public.simplyblk.xyz/1.10.rar | https://builds.rebootfn.org/1.10.rar | https://fn-builds.repressoh.it/1.10.rar
 
-## Season 2
+## Chapter 1 Season  2
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 1.11.0 (Release-Cert-CL-3807424) | https://public.simplyblk.xyz/1.11.zip | https://builds.rebootfn.org/1.11.zip | https://fn-builds.repressoh.it/1.11.zip
@@ -60,7 +60,7 @@ the other stuff section has been moved to the 2nd branch, if you cant find it ju
 | 2.4.X (2.4.x-CL-3876086) | Lost |
 | 2.5.0 (2.5-CL-3889387) | https://public.simplyblk.xyz/2.5.0.rar | https://builds.rebootfn.org/2.5.0.rar |
 
-## Season 3
+## Chapter 1 Season  3
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 3.00 (3.0.0-CL-3901517) | https://public.simplyblk.xyz/3.0.zip | https://builds.rebootfn.org/3.0.zip |
@@ -77,7 +77,7 @@ the other stuff section has been moved to the 2nd branch, if you cant find it ju
 | 3.50.2 (3.5-CL-4008490) | https://public.simplyblk.xyz/3.5.rar | https://builds.rebootfn.org/3.5.rar |
 | 3.60 (3.6-CL-4019403) | https://archive.org/download/fortnite-v3.6/Fortnite%20v3.6.7z |
 
-## Season 4
+## Chapter 1 Season  4
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 4.00 (4.0-CL-4039451) | https://public.simplyblk.xyz/4.0.zip | https://builds.rebootfn.org/4.0.zip |
@@ -91,7 +91,7 @@ the other stuff section has been moved to the 2nd branch, if you cant find it ju
 | 4.50 (4.5-CL-4159770) | https://public.simplyblk.xyz/4.5.rar | https://builds.rebootfn.org/4.5.rar |
 | 4.50.1 (4.5-CL-4166199) | https://drive.google.com/file/d/1uZ2IO1aY41HmWgq-hb-eyWtXnomkj0nc/view | https://drive.usercontent.google.com/download?id=1uZ2IO1aY41HmWgq-hb-eyWtXnomkj0nc&export=download&authuser=0&confirm=t&uuid=8eb7003a-f47a-4504-b273-473dc03044c7&at=AGN2oQ33H6PLtlygxYLcI9XPFa1u%3A1772879758174
 
-## Season 5
+## Chapter 1 Season  5
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 5.00 (5.00-CL-4204761) | https://public.simplyblk.xyz/5.00.rar | https://builds.rebootfn.org/5.00.rar |
@@ -107,7 +107,7 @@ the other stuff section has been moved to the 2nd branch, if you cant find it ju
 | 5.40.1 (5.40-CL-4352937) | https://public.simplyblk.xyz/5.40.rar | https://builds.rebootfn.org/5.40.rar |
 | 5.41 (5.41-CL-4363240) | https://public-build-archives-bucket.erafn.dev/5.41.zip | https://archive.org/download/Fortnite-5.41-CL-4363240.zip/5.41-CL-4363240.zip |
 
-## Season 6
+## Chapter 1 Season  6
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 6.00 (6.00-CL-4395664) | https://public.simplyblk.xyz/6.00.rar | https://builds.rebootfn.org/6.00.rar |
@@ -128,7 +128,7 @@ the other stuff section has been moved to the 2nd branch, if you cant find it ju
 | 6.30 (6.30-CL-4579044) | https://public.simplyblk.xyz/6.30.rar | https://builds.rebootfn.org/6.30.rar |
 | 6.31 (6.31-CL-4573279) | https://public.simplyblk.xyz/6.31.rar | https://builds.rebootfn.org/6.31.rar | https://archive.org/download/Fortnite-6.31-CL-4573279.rar/6.31-CL-4573279.rar
 
-## Season 7
+## Chapter 1 Season  7
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 7.00 (7.00-CL-4629139) | https://public.simplyblk.xyz/7.00.rar | https://builds.rebootfn.org/7.00.rar |
@@ -144,7 +144,7 @@ the other stuff section has been moved to the 2nd branch, if you cant find it ju
 | 7.40.2 (7.40-CL-5012948) | Lost |
 | 7.40.3 (7.40-CL-5046157) | https://public.simplyblk.xyz/7.40.rar | https://public.simplyblk.xyz/7.40.zip | https://builds.rebootfn.org/7.40.rar |
 
-## Season 8
+## Chapter 1 Season  8
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 8.00 (8.00-CL-5203069) | https://public.simplyblk.xyz/8.00.zip | https://builds.rebootfn.org/8.00.zip |
@@ -164,7 +164,7 @@ the other stuff section has been moved to the 2nd branch, if you cant find it ju
 | 8.50 (8.50-CL-6058028) | https://public.simplyblk.xyz/8.50.zip | https://builds.rebootfn.org/8.50.zip |
 | 8.51 (8.51-CL-6165369) | https://public.simplyblk.xyz/8.51.rar | https://builds.rebootfn.org/8.51.rar | https://archive.org/download/fortnite-release-8.51-cl-6165369/%2B%2BFortnite%2BRelease-8.51-CL-6165369.zip
 
-## Season 9
+## Chapter 1 Season  9
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 9.00 (9.00-CL-6337466) | https://public.simplyblk.xyz/9.00.zip | https://builds.rebootfn.org/9.00.zip |
@@ -180,7 +180,7 @@ the other stuff section has been moved to the 2nd branch, if you cant find it ju
 | 9.41 (9.41-CL-7463579) | Lost |
 | 9.41.1 (9.41-CL-7609292) | https://public.simplyblk.xyz/9.41.rar | https://builds.rebootfn.org/9.41.rar |
 
-## Season 10
+## Chapter 1 Season  10
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 10.00 (10.00-CL-7658179) | https://public.simplyblk.xyz/10.000.7z |
@@ -195,7 +195,7 @@ the other stuff section has been moved to the 2nd branch, if you cant find it ju
 | 10.40.1 (10.40-CL-9302865) | Lost |
 | 10.40.2 (10.40-CL-9380822) | https://public.simplyblk.xyz/10.40.rar | https://drive.google.com/file/d/1rnUcUJVeqjNhVDIODz5TBC4lY6BJcIwd/view | https://archive.org/download/Fortnite-10.40-CL-9380822.rar/10.40-CL-9380822.rar |
 
-## Season 11
+## Chapter 2 Season  1
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 11.00-CL-9562734 | https://archive.org/download/Fortnite-11.00-CL-9562734.7z/11.00-CL-9562734.7z |
@@ -218,7 +218,7 @@ the other stuff section has been moved to the 2nd branch, if you cant find it ju
 | 11.50-CL-11204868 | Lost |
 | 11.50-CL-11265652 | Unavailable |
 
-## Season 12
+## Chapter 2 Season  2
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 12.00-CL-11556442 | Unavailable |
@@ -240,7 +240,7 @@ the other stuff section has been moved to the 2nd branch, if you cant find it ju
 | 12.60-CL-13477524 | https://download.fn-archive.com/FortniteClient-12.60-CL-13477524.7z |
 | 12.61-CL-13498980 | https://public.simplyblk.xyz/12.61.zip | https://saturn.nxa.app/12.61.zip |
 
-## Season 13
+## Chapter 2 Season  3
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 13.00-CL-13649278 | https://public.simplyblk.xyz/13.00.rar |
@@ -252,7 +252,7 @@ the other stuff section has been moved to the 2nd branch, if you cant find it ju
 | 13.40-CL-14036559 | Unavailable |
 | 13.40-CL-14113327 | https://public.simplyblk.xyz/13.40.zip | https://forcedfnbuilds.website/13.40.rar |
 
-## Season 14
+## Chapter 2 Season  4
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 14.00-CL-14173417 | Lost |
@@ -273,7 +273,7 @@ the other stuff section has been moved to the 2nd branch, if you cant find it ju
 | 14.60-CL-14785135 | Lost |
 | 14.60-CL-14786821 | https://public.simplyblk.xyz/14.60.rar | https://public.simplyblk.xyz/14.60.zip |
 
-## Season 15
+## Chapter 2 Season  5
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 15.00-CL-14826719 | Lost |
@@ -294,7 +294,7 @@ the other stuff section has been moved to the 2nd branch, if you cant find it ju
 | 15.50-CL-15526472 | https://drive.google.com/file/d/1GQicxFPRBsXDsh4hehRNk9M1ACeyglTE/view |
 | 15.50-CL-15570449 | Unavailable |
 
-## Season 16
+## Chapter 2 Season  6
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 16.00-CL-15685441 | https://download.fn-archive.com/FortniteClient-16.00-CL-15685441.7z |
@@ -312,7 +312,7 @@ the other stuff section has been moved to the 2nd branch, if you cant find it ju
 | 16.50-CL-16432754 | https://drive.google.com/file/d/15Rr_mkevAvbch1DF54ntHXyj139-HJOx/view |
 | 16.50-CL-16469788 | Unavailable |
 
-## Season 17
+## Chapter 2 Season  7
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 17.00-CL-16555138 | Lost |
@@ -328,7 +328,7 @@ the other stuff section has been moved to the 2nd branch, if you cant find it ju
 | 17.50-CL-17328477 | Lost |
 | 17.50-CL-17388565 | https://public.simplyblk.xyz/17.50.zip | https://drive.google.com/file/d/1VXCEHI5NrvYxRd-PcG_gF-zH9OBIQcee/view |
 
-## Season 18
+## Chapter 2 Season  8
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 18.00-CL-17468642 | https://public.simplyblk.xyz/18.00.rar | https://drive.google.com/file/d/1aFVVvbmrrK7BykqTVS3XR6nB-Asib5gq/view | https://fn-builds.repressoh.it/18.00.rar
@@ -341,7 +341,7 @@ the other stuff section has been moved to the 2nd branch, if you cant find it ju
 | 18.30-CL-17882303 | https://public.simplyblk.xyz/18.30.7z | https://fn-builds.repressoh.it/18.30.7z
 | 18.40-CL-18163738 | https://public.simplyblk.xyz/18.40.zip | https://fn-builds.repressoh.it/18.40-CL-18163738-Windows.zip
 
-## Season 19
+## Chapter 3 Season  1
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 19.00-CL-18335626 | https://public.simplyblk.xyz/19.01.zip | https://archive.org/compress/fortnite-19.01.7z | https://fn-builds.repressoh.it/19.00.zip
@@ -357,7 +357,7 @@ the other stuff section has been moved to the 2nd branch, if you cant find it ju
 | 19.40-CL-19167615 | Unavailable |
 | 19.40-CL-19215531 | https://public.simplyblk.xyz/19.40.7z | https://www.dropbox.com/scl/fi/yh62d1ay5v87deks1g53d/19.40.zip?rlkey=y6fo0ktol2ayf7wpdw1qooj3z&dl=1 | https://fn-builds.repressoh.it/19.40.7z
 
-## Season 20
+## Chapter 3 Season  2
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 20.00-CL-19458861 | https://public.simplyblk.xyz/20.00.rar | https://r2.kovryn.xyz/20.00-CL-19458861.7z | https://fn-builds.repressoh.it/20.00.rar
@@ -370,7 +370,7 @@ the other stuff section has been moved to the 2nd branch, if you cant find it ju
 | 20.40-CL-20175294 | Lost |
 | 20.40-CL-20244966 | https://public.simplyblk.xyz/20.40.zip | https://fn-builds.repressoh.it/20.40-CL-20244966.zip | https://cdn.cbn.lol/20.40
 
-## Season 21
+## Chapter 3 Season  3
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 21.00-CL-20463113 | https://r2.ploosh.dev/21.00.zip | https://drive.google.com/file/d/18lrJ6QcMFWRSY0BbXODJFUSGccRo_dsg/view |
@@ -389,7 +389,7 @@ the other stuff section has been moved to the 2nd branch, if you cant find it ju
 | 21.50-CL-21657658 | https://public.simplyblk.xyz/21.50.zip | https://fn-builds.repressoh.it/21.50.zip
 | 21.51-CL-21735703 | https://public.simplyblk.xyz/21.51.7z | https://fn-builds.repressoh.it/21.51.7z
 
-## Season 22
+## Chapter 3  Season  4
 | Build | Download | Alternative Download | Alternative Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|---------------|---------------|
 | 22.00-CL-22026835 | Lost |
@@ -403,7 +403,7 @@ the other stuff section has been moved to the 2nd branch, if you cant find it ju
 | 22.30-CL-22803135 | Unavailable |
 | 22.40-CL-23070899 | https://gofile.io/d/uwbcWq | https://ai-repertoire.com/download.html?token=1d051e390ae1498581d41c46541a6b6b | https://fn-builds.repressoh.it/22.40.rar | https://buzzheavier.com/vh8pa7ikas1z | https://store4.gofile.io/download/web/103fc009-2595-463f-926b-63c49f542dc6/22.40.rar
 
-## Season 23
+## Chapter 4 Season 1
 | Build | Download | Alternative Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|---------------|
 | 23.00-CL-23344627 | https://public.simplyblk.xyz/23.00.7z | https://fn-builds.repressoh.it/23.00.7z
@@ -417,7 +417,7 @@ the other stuff section has been moved to the 2nd branch, if you cant find it ju
 | 23.50-CL-24376996 | Lost |
 | 23.50-CL-24441668 | https://public.simplyblk.xyz/23.50.zip | https://titanac.xyz/23.50.rar | https://r2.kovryn.xyz/23.50.rar | https://fn-builds.repressoh.it/23.50.zip
 
-## Season 24
+## Chapter 4 Season  2
 | Build | Download | Alternative Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|---------------|
 | 24.00-CL-24554913 | https://gofile.io/d/GOSBx4 | https://fn-builds.repressoh.it/24.00-CL-24554913.zip | https://store3.gofile.io/download/web/2cb72177-feaa-4466-a3d9-a1812eca1337/24.00-CL-24554913.zip
@@ -436,7 +436,7 @@ the other stuff section has been moved to the 2nd branch, if you cant find it ju
 | 24.40-CL-25521145 | Unavailable |
 | 24.40-CL-25595478 | https://gofile.io/d/cw0eee | https://fn-builds.repressoh.it/24.40-CL-25595478.zip | https://cold1.gofile.io/download/web/1944b17a-2576-434b-aa93-72fc7a19c4b5/24.40-CL-25595478.zip
 
-## Season 25
+## Chapter 4 Season  3
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 25.00-CL-25784668 | https://gofile.io/d/KnhW64 |
@@ -447,7 +447,7 @@ the other stuff section has been moved to the 2nd branch, if you cant find it ju
 | 25.20-CL-26629111 | https://ai-repertoire.com/download.html?token=8b7b7fe68d71489ca7222738f0e5f85e | https://fn-builds.repressoh.it/25.20.zip | https://cold-na-phx-1.gofile.io/download/web/04766304-e2ae-44f5-8c35-d1e5ac197ceb/v25.20-CL-26629111.zip
 | 25.30-CL-26867995 | https://gofile.io/d/BdLGzc |
 
-## Season 26
+## Chapter 4 Season  4
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 26.00-CL-27233190 | Unavailable |
@@ -457,14 +457,14 @@ the other stuff section has been moved to the 2nd branch, if you cant find it ju
 | 26.30-CL-28509302 | https://r2.ploosh.dev/26.30.zip | https://fn-builds.repressoh.it/26.30-CL-28509302.zip
 | 26.30-CL-28688692 | http://r2.ploosh.dev/26.30-CL-28688692.zip | https://fn-builds.repressoh.it/26.30-CL-28688692.zip
 
-## Season 27
+## Chapter 4 Season  5 (Chapter 4 Season OG)
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 27.00-CL-29072304 | https://cdn.cbn.lol/27.00 | https://fn-builds.repressoh.it/27.00-CL-29072304.zip
 | 27.10-CL-29552510 | https://cdn.cbn.lol/27.10 | https://fn-builds.repressoh.it/27.10-CL-29552510.zip
 | 27.11-CL-29739262 | https://gofile.io/d/MfJHqg | https://pub-220306d029514fbba26c1ffc2ef76e3e.r2.dev/27.11.rar (Less GB than the others) | https://fn-builds.repressoh.it/27.11-CL-29739262.7z
 
-## Season 28
+## Chapter 5  Season  1
 | Build | Download | Alternative Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|---------------|
 | 28.00-CL-29915848 | https://gofile.io/d/uDTffQ | https://fn-builds.repressoh.it/28.00-CL-29915848.7z
@@ -476,7 +476,7 @@ the other stuff section has been moved to the 2nd branch, if you cant find it ju
 | 28.20-CL-31286935 | https://cold4.gofile.io/download/web/3b372482-5a4d-4102-a153-c4e29faa5626/c5s1.zip |
 | 28.30-CL-31511038 | https://gofile.io/d/pIYSae | https://fn-builds.repressoh.it/28.30-CL-31511038.7z | https://cdn.astralfn.xyz/28.30-CL-31511038.7z | https://archive.org/download/28.30-cl-31511038.7z/28.30-CL-31511038.7z
 
-## Season 29
+## Chapter 5 Season 2
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 29.00-CL-31978752 | Unavailable |
@@ -490,7 +490,7 @@ the other stuff section has been moved to the 2nd branch, if you cant find it ju
 | 29.40-CL-33502036 | https://fn-builds.repressoh.it/29.40-CL-33502036.rar |
 | 29.40-CL-33629566 | https://fn-builds.repressoh.it/29.40.rar | https://gofile.io/d/uXtYnG
 
-## Season 30
+## Chapter 5 Season  3
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 30.00-CL-33760522 | Lost |
@@ -503,7 +503,7 @@ the other stuff section has been moved to the 2nd branch, if you cant find it ju
 | 30.30-CL-34891016 | Unavailable |
 | 30.40-CL-35235494 | Unavailable |
 
-## Season 31
+## Chapter 5 Season  4
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 31.00-CL-35447195 | Unavailable |
@@ -515,7 +515,7 @@ the other stuff section has been moved to the 2nd branch, if you cant find it ju
 | 31.40-CL-37076506 | Unavailable |
 | 31.41-CL-37324991 | https://store-na-phx-4.gofile.io/download/web/32cce581-05c7-4f1f-aad3-a21ab207b418/%2B%2BFortnite%2BRelease-31.41-CL-37324991-Windows.rar |https://gofile.io/d/5KnfUv |
 
-## Season 32
+## Chapter 5 Season  5 (Chapter 5 Season Remix)
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 32.00-CL-37505882 | Unavailable |
@@ -524,7 +524,7 @@ the other stuff section has been moved to the 2nd branch, if you cant find it ju
 | 32.11-CL-38202817 | https://drive.google.com/file/d/1X-K3cyFsqswUorH-2REQEKuLwh5oaEh8/view |
 | 32.11-CL-38371047 | https://fn-builds.repressoh.it/32.11-CL-38371047.rar | https://www.dropbox.com/scl/fi/5djmb3ll3j1nghszjfsy0/32.11-CL-38371047.rar?rlkey=skt5ix1svq2xvj1kai8wf9jew&dl=1
 
-## Season 33
+## Chapter 6 Season  1
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 33.00-CL-38324112 | Unavailable |
@@ -536,7 +536,7 @@ the other stuff section has been moved to the 2nd branch, if you cant find it ju
 | 33.30-CL-39435251 | Unavailable |
 | 33.30-CL-39768313 | Unavailable |
 
-## Season 34
+## Chapter 6 Season  2
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 34.00-CL-40085084 | Unavailable |
@@ -550,7 +550,7 @@ the other stuff section has been moved to the 2nd branch, if you cant find it ju
 | 34.30-CL-41588354 | Manifest Available |
 | 34.40-CL-41753727 | https://cold7.gofile.io/download/web/664392ee-3a98-490d-bb87-18b865c9a784/v34.40-CL-41753727.rar |
 
-## Season 35
+## Chapter 6 Season  MS1 (Chapter 6 Galactic Battle)
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 35.00-CL-41994699 | https://archive.org/download/v35.00-CL-41994699/v35.00-CL-41994699.zip | https://ia601709.us.archive.org/25/items/v35.00-CL-41994699/v35.00-CL-41994699.zip | https://fn-builds.repressoh.it/35.00-CL-41994699.zip
@@ -560,7 +560,7 @@ the other stuff section has been moved to the 2nd branch, if you cant find it ju
 | 35.10-CL-42906078 | Manifest Available |
 | 35.20-CL-42911808 | Manifest Available |
 
-## Season 36
+## Chapter 6 Season  3
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 36.00-CL-43214806 | https://cold8.gofile.io/download/web/424d6faa-830d-40ba-8ee7-fbb6ff81eba1/36.30-CL-44367537.zip |
@@ -572,7 +572,7 @@ the other stuff section has been moved to the 2nd branch, if you cant find it ju
 | 36.20-CL-44118662 | Manifest Available |
 | 36.30-CL-44367537 | Manifest Available |
 
-## Season 37
+## Chapter 6 Season  4
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 37.00-CL-33501951 | https://archive.org/download/fn-v37-archive-0/37.00-CL-33501951.zip |
@@ -588,7 +588,7 @@ the other stuff section has been moved to the 2nd branch, if you cant find it ju
 | 37.50-CL-46578011 | Manifest Available |
 | 37.51-CL-46968237 | https://store-na-phx-4.gofile.io/download/web/6e8fdac5-b626-4fce-ae3b-4e605bb92499/37.51-CL-46968237.zip |
 
-## Season 38
+## Chapter 6 Season MS2 (Chapter 6 The Simpsons)  
 | Build | Download | Alternative Download | Alternative Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|---------------|---------------|
 | 38.00-CL-47291259 | https://ai-repertoire.com/download.html?token=802ccf9aa26c4acc96ead076a7adb789 | https://archive.org/download/fn-v38-archive/38.00-CL-47291259.zip | https://dn721500.ca.archive.org/0/items/fn-v38-archive/38.00-CL-47291259.zip | https://fn-builds.repressoh.it/38.00-CL-47291259.zip
@@ -596,7 +596,7 @@ the other stuff section has been moved to the 2nd branch, if you cant find it ju
 | 38.10-CL-47888945 | https://ai-repertoire.com/download.html?token=d459e7cf45f941e5856b22256d0f801a | https://archive.org/download/fn-v38-archive/38.10-CL-47888945.zip | https://dn721500.ca.archive.org/0/items/fn-v38-archive/38.10-CL-47888945.zip | https://fn-builds.repressoh.it/38.10-CL-47888945.zip
 | 38.11-CL-48390828 | https://ai-repertoire.com/download.html?token=e2cbf7bca4024b17919f74eef72128c4 | [1st Alternative Download](https://ai-repertoire.com/download.html?token=fa347d59525f42c8a88599e5ce3848ea) | [2nd Alternative Download](https://archive.org/download/fn-v38-archive/38.11-CL-48390828.zip) | [3rd Alternative Download](https://dn721500.ca.archive.org/0/items/fn-v38-archive/38.11-CL-48390828.zip) | [4th Alternative Download](https://fn-builds.repressoh.it/38.11-CL-48390828.zip)
 
-## Season 39
+## Chapter 7 Season  1
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 39.00-CL-48444883 | https://archive.org/download/fn-v39-archive/39.00-CL-48444883.zip | https://cold-na-phx-5.gofile.io/download/web/073f610e-e5b0-4df7-82a5-2f89ab2d4a18/v39.00-CL-48444883.zip 
@@ -612,7 +612,7 @@ the other stuff section has been moved to the 2nd branch, if you cant find it ju
 | 39.50-CL-50854790 | https://archive.org/download/fn-v39-archive/39.50-CL-50854790.zip | https://pastabillites.to/d/2qzcb3d27h5e?v=ZgVywtaCX3eYLzGYQZMxNhk3DBgaRG1nXY2CmV5l2wSs3qOYZ035tSK_gmJ1Xv9_Vl7TH9XkkPjZnn8qBuM8uh56BvsnlG13DuJ72JjW2Ha0F2AfisSe5ixivMcVwQ
 | 39.51-CL-51287198 | https://transfer.it/t/MXp35FlDwZpZ |
 
-## Season 40 
+## Chapter 7 Season  2 
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 40.00-CL???????? | shit haven't even came out yet
