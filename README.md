@@ -6,16 +6,16 @@ the other stuff section has been moved to the 2nd branch, if you cant find it ju
 - Credits go Ka Pum on discord for his Fortnite China Archive, also for giving me 12.30 (China Version) download link which was one of the missing builds for the china archive
 - Credits to ploosh for many builds here, but 2 specificaly are 26.30-28688692, and 26.30-28509302
 - Credits go Pak for many og builds and some recent ones as well
-- More Credits soon
+- Credits go to ElectricArchive for s37 builds (which i thought were lost) and other builds as well like s38 and s39
 
 # Errors
 - If i made any errors like putting builds in the wrong spot make a issue for it and tell me where its supposed to be and i'll put it in the right spot
 
 ## Pre-Season
-| Build | Download | Alternative Download | Alternative Download | Alternative Download
-|--------------|---------------|---------------|---------------|---------------|
-| Cert (Cert-CL-3532353) (Windows, Windows) | https://archive.org/download/fortnite-cert-cl-3532353-1.-7z/%2B%2BFortnite%2BCert-CL-3532353%20%281%29.7z | https://drive.google.com/file/d/1F3KgNqWWRL4dXAyAFQcEBWiojdSejK37/view | https://archive.thedatadungeon.com/fortnite_2017/builds/2017-07-20_microsoft_windows_cert-cl-3532353/fortnite.7z | https://fn-builds.repressoh.it/%2B%2BFortnite%2BCert-CL-3532353.7z
-| 1.2.0 (Cert-CL-3541083) | https://archive.thedatadungeon.com/fortnite_2017/builds/2017-07-21_microsoft_windows_1.2-cl-3541083/fortnite_v1.2.rar | https://fn-builds.repressoh.it/1.2.zip
+| Build | Download | Alternative Download | Alternative Download | Alternative Download | Alternative Download
+|--------------|---------------|---------------|---------------|---------------|---------------|
+| Cert (Cert-CL-3532353) (Windows, Windows) | https://archive.org/download/fortnite-cert-cl-3532353-1.-7z/%2B%2BFortnite%2BCert-CL-3532353%20%281%29.7z | https://drive.google.com/file/d/1F3KgNqWWRL4dXAyAFQcEBWiojdSejK37/view | https://archive.thedatadungeon.com/fortnite_2017/builds/2017-07-20_microsoft_windows_cert-cl-3532353/fortnite.7z | https://fn-builds.repressoh.it/%2B%2BFortnite%2BCert-CL-3532353.7z | https://archive.org/download/fn-v0-archive/Cert-CL-3532353.zip
+| 1.2.0 (Cert-CL-3541083) | https://archive.thedatadungeon.com/fortnite_2017/builds/2017-07-21_microsoft_windows_1.2-cl-3541083/fortnite_v1.2.rar | https://fn-builds.repressoh.it/1.2.zip | https://archive.org/download/fn-v0-archive/1.2.0-CL-3541083.zip
 | 1.4.0 | Lost |
 | 1.4.1 | Lost |
 | 1.4.2 | Lost |
@@ -34,7 +34,7 @@ the other stuff section has been moved to the 2nd branch, if you cant find it ju
 | 1.6.4 (Release-Cert-CL-3668626) | Lost |
 | 1.7.0 (Release-Cert-CL-3681159) | Lost |
 | 1.7.1 | Lost |
-| 1.7.2 (Release-Cert-CL-3700114) | https://public.simplyblk.xyz/1.7.2.zip | https://builds.rebootfn.org/1.7.2.zip | https://drive.google.com/file/d/1A3Y2werWd5mlbp2MlUeP8NL5sEXy8lOn/view |
+| 1.7.2 (Release-Cert-CL-3700114) | https://public.simplyblk.xyz/1.7.2.zip | https://builds.rebootfn.org/1.7.2.zip | https://drive.google.com/file/d/1A3Y2werWd5mlbp2MlUeP8NL5sEXy8lOn/view | https://archive.org/download/fn-v0-archive/1.7.2-CL-3700114.zip
 
 ## Season 1
 | Build | Download | Alternative Download | Alternative Download | Alternative Download
@@ -575,15 +575,16 @@ the other stuff section has been moved to the 2nd branch, if you cant find it ju
 ## Season 37
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
+| 37.00-CL-33501951 | https://archive.org/download/fn-v37-archive-0/37.00-CL-33501951.zip |
 | 37.00-CL-44501951 | Manifest Available |
-| 37.00-CL-44765404 | Manifest Available |
-| 37.10-CL-45056983 | Manifest Available |
-| 37.10-CL-45566377 | Manifest Available |
-| 37.20-CL-45566402 | Manifest Available |
-| 37.20-CL-45679054 | Manifest Available |
-| 37.30-CL-45814998 | Manifest Available |
-| 37.31-CL-46047957 | Manifest Available |
-| 37.40-CL-46295673 | Manifest Available |
+| 37.00-CL-44765404 | https://archive.org/download/fn-v37-archive-0/37.00-CL-44765404.zip |
+| 37.10-CL-45056983 | https://archive.org/download/fn-v37-archive-0/37.10-CL-45056983.zip |
+| 37.10-CL-45566377 | https://archive.org/download/fn-v37-archive-0/37.10-CL-45566377.zip |
+| 37.20-CL-45566402 | https://archive.org/download/fn-v37-archive-0/37.20-CL-45566402.zip |
+| 37.20-CL-45679054 | https://archive.org/download/fn-v37-archive-0/37.20-CL-45679054.zip |
+| 37.30-CL-45814998 | https://archive.org/download/fn-v37-archive-0/37.30-CL-45814998.zip |
+| 37.31-CL-46047957 | https://archive.org/download/fn-v37-archive-0/37.31-CL-46047957.zip |
+| 37.40-CL-46295673 | https://archive.org/download/fn-v37-archive-0/37.40-CL-46295673.zip |
 | 37.50-CL-46578011 | Manifest Available |
 | 37.51-CL-46968237 | https://store-na-phx-4.gofile.io/download/web/6e8fdac5-b626-4fce-ae3b-4e605bb92499/37.51-CL-46968237.zip |
 
