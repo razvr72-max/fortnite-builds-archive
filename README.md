@@ -610,3 +610,8 @@ the other stuff section has been moved to the 2nd branch, if you cant find it ju
 | 39.40-CL-50341043 | https://archive.org/download/fn-v39-archive/39.40-CL-50341043.zip
 | 39.50-CL-50854790 | https://archive.org/download/fn-v39-archive/39.50-CL-50854790.zip | https://pastabillites.to/d/2qzcb3d27h5e?v=ZgVywtaCX3eYLzGYQZMxNhk3DBgaRG1nXY2CmV5l2wSs3qOYZ035tSK_gmJ1Xv9_Vl7TH9XkkPjZnn8qBuM8uh56BvsnlG13DuJ72JjW2Ha0F2AfisSe5ixivMcVwQ
 | 39.51-CL-51287198 | https://transfer.it/t/MXp35FlDwZpZ |
+
+## Season 40 
+| Build | Download | Alternative Download | Alternative Download
+|--------------|---------------|---------------|---------------|
+| 40.00-CL???????? | shit haven't even came out yet
