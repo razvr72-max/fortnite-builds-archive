@@ -616,5 +616,5 @@ the other stuff section has been moved to the 2nd branch, if you cant find it ju
 ## Chapter 7 Season  2 
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 40.00-CL???????? | shit haven't even came out yet
+| 40.00-CL???????? | https://transfer.it/t/MXp35FlDwZpZ |
 | 40.00-CL???????? | shit haven't even came out yet
