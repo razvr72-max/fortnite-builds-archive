@@ -44,8 +44,8 @@ the other stuff section has been moved to the 2nd branch, if you cant find it ju
 ## Chapter 6 Season  4
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 37.51-CL-46968237 | https://store-na-phx-4.gofile.io/download/web/6e8fdac5-b626-4fce-ae3b-4e605bb92499/37.51-CL-46968237.zip |
-| 37.50-CL-46578011 | Manifest Available |
+| 37.51-CL-46968237 | https://archive.org/download/fn-v37-archive/37.51-CL-46968237.zip |
+| 37.50-CL-46578011 | https://archive.org/download/fn-v37-archive/37.50-CL-46578011.zip |
 | 37.40-CL-46295673 | https://archive.org/download/fn-v37-archive-0/37.40-CL-46295673.zip |
 | 37.31-CL-46047957 | https://archive.org/download/fn-v37-archive-0/37.31-CL-46047957.zip |
 | 37.30-CL-45814998 | https://archive.org/download/fn-v37-archive-0/37.30-CL-45814998.zip |
@@ -62,12 +62,12 @@ the other stuff section has been moved to the 2nd branch, if you cant find it ju
 |--------------|---------------|---------------|---------------|
 | 36.30-CL-44367537 | Manifest Available |
 | 36.20-CL-44118662 | Manifest Available |
-| 36.20-CL-43847582 | Manifest Available |
-| 36.10-CL-43997926 | Manifest Available |
-| 36.10-CL-43713507 | Manifest Available |
-| 36.10-CL-43486998 | Manifest Available |
-| 36.00-CL-43339403 | Manifest Available |
-| 36.00-CL-43214806 | https://cold8.gofile.io/download/web/424d6faa-830d-40ba-8ee7-fbb6ff81eba1/36.30-CL-44367537.zip |
+| 36.20-CL-43847582 | https://archive.org/download/fn-v36-archive/36.20-CL-43847582.zip |
+| 36.10-CL-43997926 | https://archive.org/download/fn-v36-archive/36.10-CL-43997926.zip |
+| 36.10-CL-43713507 | https://archive.org/download/fn-v36-archive/36.10-CL-43713507.zip |
+| 36.10-CL-43486998 | https://archive.org/download/fn-v36-archive/36.10-CL-43486998.zip |
+| 36.00-CL-43339403 | https://archive.org/download/fn-v36-archive/36.00-CL-43339403.zip |
+| 36.00-CL-43214806 | https://archive.org/download/fn-v36-archive/36.00-CL-43214806.zip |
 
 ## Chapter 6 Season  MS1 (Chapter 6 Galactic Battle)
 | Build | Download | Alternative Download | Alternative Download
