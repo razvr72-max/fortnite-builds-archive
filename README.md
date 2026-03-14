@@ -60,8 +60,8 @@ the other stuff section has been moved to the 2nd branch, if you cant find it ju
 ## Chapter 6 Season  3
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 36.30-CL-44367537 | Manifest Available |
-| 36.20-CL-44118662 | Manifest Available |
+| 36.30-CL-44367537 | https://archive.org/download/fn-v36-archive/36.30-CL-44367537.zip |
+| 36.20-CL-44118662 | https://archive.org/download/fn-v36-archive/36.20-CL-44118662.zip |
 | 36.20-CL-43847582 | https://archive.org/download/fn-v36-archive/36.20-CL-43847582.zip |
 | 36.10-CL-43997926 | https://archive.org/download/fn-v36-archive/36.10-CL-43997926.zip |
 | 36.10-CL-43713507 | https://archive.org/download/fn-v36-archive/36.10-CL-43713507.zip |
