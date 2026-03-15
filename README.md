@@ -20,7 +20,7 @@ the other stuff section has been moved to the 2nd branch, if you cant find it ju
 ## Chapter 7 Season  1
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 39.51-CL-51287198 | https://ia802807.us.archive.org/7/items/39.51-cl-51287198/39.51-CL-51287198.rar | https://transfer.it/t/MXp35FlDwZpZ |
+| 39.51-CL-51287198 | [NOTE: this is the removed high resolution version](https://ia802807.us.archive.org/7/items/39.51-cl-51287198/39.51-CL-51287198.rar) | https://transfer.it/t/MXp35FlDwZpZ |
 | 39.50-CL-50854790 | https://archive.org/download/fn-v39-archive/39.50-CL-50854790.zip | https://pastabillites.to/d/2qzcb3d27h5e?v=ZgVywtaCX3eYLzGYQZMxNhk3DBgaRG1nXY2CmV5l2wSs3qOYZ035tSK_gmJ1Xv9_Vl7TH9XkkPjZnn8qBuM8uh56BvsnlG13DuJ72JjW2Ha0F2AfisSe5ixivMcVwQ
 | 39.40-CL-50577083 | https://pastabillites.to/d/b07n6bokfyw4?v=wSJqG4-dVNkSUJb4Iw0PrU32VzeUo7yUxiEGp67nyWNc_9dVrNFn8hnNceUr8EglN9kxtgFkAXHynPNzPc2BMBfsju51cEz-7TT9zdpH1i7MG9I3ivq1GI7U3hkb6Q
 | 39.40-CL-50341043 | https://archive.org/download/fn-v39-archive/39.40-CL-50341043.zip | https://dn721802.ca.archive.org/0/items/fn-v39-archive/39.40-CL-50341043.zip
