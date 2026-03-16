@@ -74,7 +74,7 @@ the other stuff section has been moved to the 2nd branch, if you cant find it ju
 |--------------|---------------|---------------|---------------|
 | 35.20-CL-42911808 | Manifest Available |
 | 35.10-CL-42906078 | https://archive.org/download/fn-v35-archive/35.10-CL-42906078.zip |
-| 35.10-CL-42696140 | Manifest Available |
+| 35.10-CL-42696140 | https://archive.org/download/fn-v35-archive/35.10-CL-42696140.zip |
 | 35.10-CL-42476511 | https://archive.org/download/fn-v35-archive/35.10-CL-42476511.zip |
 | 35.00-CL-42223143 | https://archive.org/download/fn-v35-archive/35.00-CL-42223143.zip |
 | 35.00-CL-41994699 | https://archive.org/download/fn-v35-archive/35.00-CL-41994699.zip | https://archive.org/download/v35.00-CL-41994699/v35.00-CL-41994699.zip | https://fn-builds.repressoh.it/35.00-CL-41994699.zip |
