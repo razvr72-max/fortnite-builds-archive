@@ -88,7 +88,7 @@ the other stuff section has been moved to the 2nd branch, if you cant find it ju
 | 34.21-CL-41092960 | https://archive.org/download/34.10-cl-40567068/34.21-CL-41092960.zip |
 | 34.20-CL-40965447 | https://archive.org/download/34.10-cl-40567068/34.20-CL-40965447.zip |
 | 34.10-CL-40567068 | https://archive.org/download/34.10-cl-40567068/34.10-CL-40567068.zip | https://drive.google.com/file/d/19Deve2k8YjZ6qZCcNAKzcf5yxqwZY_WG/view |`
-| 34.00-CL-40446427 | https://fn-builds.repressoh.it/34.00-CL-40446427.rar |
+| 34.00-CL-40446427 | https://fn-builds.repressoh.it/34.00-CL-40446427.rar | https://archive.org/download/fn-v34-archive/34.00-CL-40446427.zip
 | 34.00-CL-40398515 | Unavailable |
 | 34.00-CL-40228973 | Unavailable |
 | 34.00-CL-40085084 | Unavailable |
