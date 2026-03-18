@@ -10,7 +10,7 @@ the other stuff section has been moved to the 2nd branch, if you cant find it ju
 - Credits go to Jaelan, he's made many download links OGFN builds which are on here (i got put Fortforge.dev website 🥹)
 
 # Errors
-- If i made any errors like putting builds in the wrong spot make a issue for it and tell me where its supposed to be and i'll put it in the right spot or if there is a download link thats down make an issue as well
+- If i made any errors like putting builds in the wrong spot make a issue for it and tell me where its supposed to be and i'll put it in the right spot or if there is a download link thats down make an issue as well (ik s39 builds arent working the creator of it is adding them back soon)
 
 ## Chapter 7 Season  2 
 | Build | Download | Alternative Download | Alternative Download
