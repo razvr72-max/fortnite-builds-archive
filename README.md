@@ -1,6 +1,6 @@
 Hello, Welcome to Llamaqwerty fork, Which is one of top 3 largest build archives, with many added builds (Lost, Unavailable, and Manifestable builds have been added), visit my (Disabled as of right now) [website](https://helix-fn-archive.netlify.app/) that has the same builds but no lost, unavailable, or manifestables there and overall looks cleaner 
 
-the other stuff section has been moved to the 2nd branch, if you cant find it just press this link, https://github.com/razvr72-max/fortnite-builds-archive/tree/Other
+For UEFN Builds head over to https://github.com/Helix-Dev-Q/UEFN-Archive for them
 
 ## Note:
 - Credits go Ka Pum on discord for his Fortnite China Archive, also for giving me 12.30 (China Version) download link which was one of the missing builds for the china archive
