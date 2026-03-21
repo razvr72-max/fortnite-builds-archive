@@ -15,7 +15,8 @@ For UEFN Builds head over to https://github.com/Helix-Dev-Q/UEFN-Archive for the
 ## Chapter 7 Season  2 
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 40.00-CL-514????? |  |
+| 40.00-CL-51995682 |  |
+| 40.00-CL-51746096 | https://archive.org/download/40.00-CL-51746096/40.00-CL-51746096.zip |
 
 ## Chapter 7 Season  1
 | Build | Download | Alternative Download | Alternative Download
