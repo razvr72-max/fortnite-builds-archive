@@ -3,7 +3,7 @@ Hello, Welcome to Llamaqwerty fork, Which is one of top 3 largest build archives
 For UEFN Builds head over to https://github.com/Helix-Dev-Q/UEFN-Archive for them
 
 ## Note:
-- Credits go Ka Pum on discord for his Fortnite China Archive, also for giving me 12.30 (China Version) download link which was one of the missing builds for the china archive
+- Credits go Ka Pum on discord for his Fortnite China Archive, also for giving me 12.30
 - Credits to ploosh for many builds here, but 2 specificaly are 26.30-28688692, and 26.30-28509302
 - Credits go Pak for many og builds and some recent ones as well
 - Credits go to ElectricArchive for s37 builds (which i thought were lost) and other builds as well like s38, s39, s36, s35
@@ -401,7 +401,7 @@ For UEFN Builds head over to https://github.com/Helix-Dev-Q/UEFN-Archive for the
 | 12.50-CL-13044369 | Lost |
 | 12.41-CL-12905909 | https://public.simplyblk.xyz/Fortnite%2012.41.zip | https://cdn.cbn.lol/12.41 | https://fentti.xyz/upload/12.41.zip |
 | 12.40-CL-12837456 | https://public.simplyblk.xyz/12.40.rar |
-| 12.30-CL-12624643 | Unavailable |
+| 12.30-CL-12624643 | https://transfer.it/t/ODMlq0hH0BxD |
 | 12.30-CL-12493283 | Unavailable |
 | 12.21-CL-12353830 | https://public.simplyblk.xyz/12.21.zip | https://drive.google.com/file/d/1BA5MJEyE9tje7-frrUrXrRcyhnIrcBEP/view |
 | 12.20-CL-12236980 | https://public.simplyblk.xyz/12.20.rar |
