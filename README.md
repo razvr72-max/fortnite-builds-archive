@@ -401,7 +401,7 @@ For UEFN Builds head over to https://github.com/Helix-Dev-Q/UEFN-Archive for the
 | 12.50-CL-13044369 | Lost |
 | 12.41-CL-12905909 | https://public.simplyblk.xyz/Fortnite%2012.41.zip | https://cdn.cbn.lol/12.41 | https://fentti.xyz/upload/12.41.zip |
 | 12.40-CL-12837456 | https://public.simplyblk.xyz/12.40.rar |
-| 12.30-CL-12624643 | https://transfer.it/t/ODMlq0hH0BxD |
+| 12.30-CL-12624643 | https://transfer.it/t/ODMlq0hH0BxD | https://archive.org/download/12.30-cl-12624643.7z/12.30-CL-12624643.7z
 | 12.30-CL-12493283 | Unavailable |
 | 12.21-CL-12353830 | https://public.simplyblk.xyz/12.21.zip | https://drive.google.com/file/d/1BA5MJEyE9tje7-frrUrXrRcyhnIrcBEP/view |
 | 12.20-CL-12236980 | https://public.simplyblk.xyz/12.20.rar |
