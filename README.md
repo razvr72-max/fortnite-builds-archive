@@ -118,7 +118,7 @@ For UEFN Builds head over to https://github.com/Helix-Dev-Q/UEFN-Archive for the
 ## Chapter 5 Season  4
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 31.41-CL-37324991 | https://store-na-phx-4.gofile.io/download/web/32cce581-05c7-4f1f-aad3-a21ab207b418/%2B%2BFortnite%2BRelease-31.41-CL-37324991-Windows.rar |https://gofile.io/d/5KnfUv |
+| 31.41-CL-37324991 | https://fn-builds.repressoh.it/31.41-CL-37324991.rar |https://gofile.io/d/5KnfUv |
 | 31.40-CL-37076506 | Unavailable |
 | 31.40-CL-36874825 | https://cold-na-phx-4.gofile.io/download/web/0ccf9adf-7351-4994-84e4-f4459cd890b6/Fortnite%2031.40.zip |
 | 31.30-CL-36600465 | Unavailable |
