@@ -83,7 +83,7 @@ For UEFN Builds head over to https://github.com/Helix-Dev-Q/UEFN-Archive for the
 ## Chapter 6 Season  2
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 34.40-CL-41753727 | https://archive.org/download/34.10-cl-40567068/34.40-CL-41753727.rar |  |
+| 34.40-CL-41753727 | https://archive.org/download/34.10-cl-40567068/34.40-CL-41753727.rar | https://fn-builds.repressoh.it/34.40-CL-41753727.rar |
 | 34.30-CL-41588354 | Manifest Available |
 | 34.30-CL-41387772 | https://archive.org/download/34.10-cl-40567068/34.30-CL-41387772.zip | https://archive.org/download/fn-v34-archive/34.30-CL-41387772.zip
 | 34.21-CL-41092960 | https://archive.org/download/34.10-cl-40567068/34.21-CL-41092960.zip | https://archive.org/download/fn-v34-archive/34.21-CL-41092960.zip
