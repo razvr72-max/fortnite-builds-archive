@@ -8,6 +8,7 @@ For UEFN Builds head over to https://github.com/Helix-Dev-Q/UEFN-Archive for the
 - Credits go Pak for many og builds and some recent ones as well
 - Credits go to ElectricArchive for s37 builds (which i thought were lost) and other builds as well like s38, s39, s36, s35
 - Credits go to Jaelan, for some of the downlaod links that he has made (i got put Fortforge.dev website 🥹)
+- Credits go to Timmy (Owner of Carbon) for giving me one of the s30 builds which was unavailable
 
 # Errors
 - If i made any errors like putting builds in the wrong spot make a issue for it and tell me where its supposed to be and i'll put it in the right spot or if there is a download link thats down make an issue as well (ik s39 builds arent working the creator of it is adding them back soon)
@@ -138,7 +139,7 @@ For UEFN Builds head over to https://github.com/Helix-Dev-Q/UEFN-Archive for the
 | 30.10-CL-34261954 | Unavailable |
 | 30.10-CL-34184790 | https://fn-builds.repressoh.it/30.10-CL-34184790.rar |
 | 30.00-CL-33962396 | https://gofile.io/d/ZjRYts | https://fn-builds.repressoh.it/30.00-CL-33962396.rar |
-| 30.00-CL-33760522 | Lost |
+| 30.00-CL-33760522 | https://gofile.io/d/ZjRYts |
 
 ## Chapter 5 Season 2
 | Build | Download | Alternative Download | Alternative Download
