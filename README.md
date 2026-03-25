@@ -556,9 +556,9 @@ For UEFN Builds head over to https://github.com/Helix-Dev-Q/UEFN-Archive for the
 ## Chapter 1 Season  3
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 3.60 (3.6-CL-4019403) | https://archive.org/download/fortnite-v3.6/Fortnite%20v3.6.7z |
-| 3.50.2 (3.5-CL-4008490) | https://public.simplyblk.xyz/3.5.rar | https://builds.rebootfn.org/3.5.rar |
-| 3.50.1 (3.5-CL-4000805) | https://archive.org/details/fortnite-4000805-3.5 |
+| 3.60 (3.6-CL-4019403) | https://archive.org/download/fortnite-v3.6/Fortnite%20v3.6.7z | https://fn-builds.repressoh.it/3.6.zip
+| 3.50.2 (3.5-CL-4008490) | https://public.simplyblk.xyz/3.5.rar | https://builds.rebootfn.org/3.5.rar | https://fn-builds.repressoh.it/3.5.zip
+| 3.50.1 (3.5-CL-4000805) | https://archive.org/details/fortnite-4000805-3.5 | https://fn-builds.repressoh.it/3.5-CL-4000805.7z
 | 3.50 (3.5-CL-3994867) | Lost |
 | 3.40.1 (3.4-CL-3973340) | Lost |
 | 3.40 (3.4-CL-3968866) | Lost |
