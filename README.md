@@ -180,21 +180,21 @@ For UEFN Builds head over to https://github.com/Helix-Dev-Q/UEFN-Archive for the
 |--------------|---------------|---------------|---------------|
 | 26.30-CL-28688692 | http://r2.ploosh.dev/26.30-CL-28688692.zip | https://fn-builds.repressoh.it/26.30-CL-28688692.zip |
 | 26.30-CL-28509302 | https://r2.ploosh.dev/26.30.zip | https://fn-builds.repressoh.it/26.30-CL-28509302.zip |
-| 26.20-CL-28096793 | https://gofile.io/d/C63eDL |
-| 26.10-CL-27681420 | https://gofile.io/d/vM1yFB |
-| 26.00-CL-27424790 | https://gofile.io/d/M4bCRL |
+| 26.20-CL-28096793 | Unavailable |
+| 26.10-CL-27681420 | Unavailable |
+| 26.00-CL-27424790 | Unavailable |
 | 26.00-CL-27233190 | Unavailable |
 
 ## Chapter 4 Season  3
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 25.30-CL-26867995 | https://gofile.io/d/BdLGzc |
-| 25.20-CL-26629111 | https://ai-repertoire.com/download.html?token=8b7b7fe68d71489ca7222738f0e5f85e | https://fn-builds.repressoh.it/25.20.zip | https://cold-na-phx-1.gofile.io/download/web/04766304-e2ae-44f5-8c35-d1e5ac197ceb/v25.20-CL-26629111.zip |
+| 25.30-CL-26867995 | Unavailable |
+| 25.20-CL-26629111 | https://ai-repertoire.com/download.html?token=8b7b7fe68d71489ca7222738f0e5f85e | https://fn-builds.repressoh.it/25.20.zip |  |
 | 25.20-CL-26474516 | Unavailable |
-| 25.11-CL-26171015 | https://r2.ploosh.dev/25.11.zip | https://fn-builds.repressoh.it/25.11.zip | https://cold-na-phx-3.gofile.io/download/web/1734f047-2ef8-45cc-9d18-23c1ff61fff6/25.11-CL-26171015.7z |
-| 25.10-CL-26000959 | https://gofile.io/d/5yVVNk |
-| 25.00-CL-25909622 | https://gofile.io/d/HI14D5 |
-| 25.00-CL-25784668 | https://gofile.io/d/KnhW64 |
+| 25.11-CL-26171015 | https://r2.ploosh.dev/25.11.zip | https://fn-builds.repressoh.it/25.11.zip |  |
+| 25.10-CL-26000959 | Unavailable |
+| 25.00-CL-25909622 | Unavailable |
+| 25.00-CL-25784668 | Unavailable |
 
 ## Chapter 4 Season  2
 | Build | Download | Alternative Download | Alternative Download | Alternative Download
@@ -213,7 +213,6 @@ For UEFN Builds head over to https://github.com/Helix-Dev-Q/UEFN-Archive for the
 | 24.01-CL-24757023 | Lost |
 | 24.01-CL-24672685 | Unavailable |
 | 24.00-CL-24554913 | https://gofile.io/d/GOSBx4 | https://fn-builds.repressoh.it/24.00-CL-24554913.zip | https://store3.gofile.io/download/web/2cb72177-feaa-4466-a3d9-a1812eca1337/24.00-CL-24554913.zip |
-| 24.24+UEFN (idk if ts works since its 3.4gb) | https://archive.org/download/2420-uefn/2420UEFN.zip |
 
 ## Chapter 4 Season 1
 | Build | Download | Alternative Download | Alternative Download | Alternative Download
