@@ -4,7 +4,7 @@ Welcome, this is a fork of llamaqwerty fortnite build archive, im just gonna add
 - Llamaqwerty for some of the main builds added
 - jalen for most the builds that are on here (i think, im still not sure correct me if im wrong)
 - Pakked for some recent builds and og builds
-- electric_dragon for builds 38.10, 38.00
+- electric_dragon for a lot of recent builds
 - fn-builds.repressoh.it for a LOT of lost builds which could not be found
 - A Real Potato for build 31.40
 - ploosh.dev and ploosh (not sure if their the same person) for builds, ploosh.dev:26.30-CL-28688692, Main-CL-21452241, ploosh:26.30-CL-28798412
