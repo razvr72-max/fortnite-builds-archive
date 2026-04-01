@@ -111,7 +111,7 @@ For UEFN Builds head over to https://github.com/Helix-Dev-Q/UEFN-Archive for the
 ## Chapter 5 Season  5 (Chapter 5 Season Remix)
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 32.11-CL-38371047 | https://fn-builds.repressoh.it/32.11-CL-38371047.rar | https://www.dropbox.com/scl/fi/5djmb3ll3j1nghszjfsy0/32.11-CL-38371047.rar?rlkey=skt5ix1svq2xvj1kai8wf9jew&dl=1
+| 32.11-CL-38371047 | https://fn-builds.repressoh.it/32.11-CL-38371047.rar | https://r2.ploosh.dev/32.11.7z
 | 32.11-CL-38202817 | https://drive.google.com/file/d/1X-K3cyFsqswUorH-2REQEKuLwh5oaEh8/view |
 | 32.10-CL-37958378 | Unavailable |
 | 32.00-CL-37770125 | Unavailable |
