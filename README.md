@@ -222,7 +222,7 @@ For UEFN Builds head over to https://github.com/Helix-Dev-Q/UEFN-Archive for the
 | 23.40-CL-24087481 | https://public.simplyblk.xyz/23.40.zip | https://fn-builds.repressoh.it/23.40.zip | https://cold-na-phx-6.gofile.io/download/web/150f4045-1dd8-4421-81e2-ef3ee8c64fec/23.40-CL-24087481.zip |
 | 23.30-CL-23986860 | Unavailable | https://fn-builds.repressoh.it/23.30.zip |
 | 23.30-CL-23901854 | Lost |
-| 23.20-CL-23783097 | Unavailable |
+| 23.20-CL-23783097 | https://fnbuilds.site/23.20-CL-23783097.zip |
 | 23.20-CL-23659353 | Unavailable |
 | 23.10-CL-23572221 | Unavailable |
 | 23.10-CL-23443094 | https://public.simplyblk.xyz/23.10.rar | https://fn-builds.repressoh.it/23.10-CL-23443094.rar | https://cdn.cbn.lol/23.10 |
