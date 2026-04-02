@@ -153,7 +153,7 @@ For UEFN Builds head over to https://github.com/Helix-Dev-Q/UEFN-Archive for the
 | 29.10-CL-32567225 | Unavailable |
 | 29.10-CL-32391220 | Unavailable |
 | 29.01-CL-32291970 | Unavailable |
-| 29.00-CL-32116959 | https://gofile.io/d/cw0eee | https://fn-builds.repressoh.it/29.00-CL-32116959.7z |
+| 29.00-CL-32116959 | https://gofile.io/d/cw0eee | https://fn-builds.repressoh.it/29.00-CL-32116959.7z | https://fnbuilds.site/29.00-CL-32116959.7z
 | 29.00-CL-31978752 | Unavailable |
 
 ## Chapter 5  Season  1
@@ -233,7 +233,7 @@ For UEFN Builds head over to https://github.com/Helix-Dev-Q/UEFN-Archive for the
 |--------------|---------------|---------------|---------------|---------------|---------------|
 | 22.40-CL-23070899 | https://gofile.io/d/uwbcWq | https://ai-repertoire.com/download.html?token=1d051e390ae1498581d41c46541a6b6b | https://fn-builds.repressoh.it/22.40.rar | https://buzzheavier.com/vh8pa7ikas1z | https://store4.gofile.io/download/web/103fc009-2595-463f-926b-63c49f542dc6/22.40.rar |
 | 22.30-CL-22803135 | Unavailable |
-| 22.20-CL-22600409 | Unavailable |
+| 22.20-CL-22600409 | https://fnbuilds.site/22.20-CL-22600409.rar |
 | 22.20-CL-22523251 | Lost |
 | 22.10-CL-22429549 | https://fn-builds.repressoh.it/22.10-CL-22429549.7z | https://cdn.cbn.lol/22.10 |
 | 22.10-CL-22240570 | Lost |
@@ -245,7 +245,7 @@ For UEFN Builds head over to https://github.com/Helix-Dev-Q/UEFN-Archive for the
 ## Chapter 3 Season  3
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 21.51-CL-21735703 | https://public.simplyblk.xyz/21.51.7z | https://fn-builds.repressoh.it/21.51.7z |
+| 21.51-CL-21735703 | https://public.simplyblk.xyz/21.51.7z | https://fn-builds.repressoh.it/21.51.7z | https://fnbuilds.site/21.51.7z
 | 21.50-CL-21657658 | https://public.simplyblk.xyz/21.50.zip | https://fn-builds.repressoh.it/21.50.zip |
 | 21.40-CL-21407327 | https://fn-builds.repressoh.it/21.40-CL-21407327.7z |
 | 21.40-CL-21348157 | Lost |
