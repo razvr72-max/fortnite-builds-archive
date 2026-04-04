@@ -17,8 +17,9 @@ For UEFN Builds head over to https://github.com/Helix-Dev-Q/UEFN-Archive for the
 ## Chapter 7 Season  2 
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 40.00-CL-51995682 | Current |
-| 40.00-CL-51746096 | https://archive.org/download/40.00-CL-51746096/40.00-CL-51746096.zip |
+| 40.00-CL-51746096 | Current |
+| 40.00-CL-51995682 | [note this version has stw only reason why its bigger](https://archive.org/download/40.00-CL-51746096/40.00-CL-51995682.zip) |
+| 40.00-CL-51746096 | https://archive.org/download/40.00-CL-51746096/40.00-CL-51746096.zip | https://fn-builds.repressoh.it/40.00-CL-51746096.zip
 
 ## Chapter 7 Season  1
 | Build | Download | Alternative Download | Alternative Download
@@ -103,7 +104,7 @@ For UEFN Builds head over to https://github.com/Helix-Dev-Q/UEFN-Archive for the
 | 33.30-CL-39435251 | Unavailable |
 | 33.20-CL-39277041 | Unavailable |
 | 33.20-CL-39082670 | https://archive.org/download/fortniteBuild33.20/Fortnite.7z |
-| 33.11-CL-38773622 | https://fn-builds.repressoh.it/33.11-CL-38773622.rar |
+| 33.11-CL-38773622 | Unavailable |
 | 33.10-CL-38630093 | Unavailable |
 | 33.00-CL-38504598 | Unavailable |
 | 33.00-CL-38324112 | Unavailable |
@@ -122,10 +123,10 @@ For UEFN Builds head over to https://github.com/Helix-Dev-Q/UEFN-Archive for the
 |--------------|---------------|---------------|---------------|
 | 31.41-CL-37324991 | https://fn-builds.repressoh.it/31.41-CL-37324991.rar |https://gofile.io/d/5KnfUv |
 | 31.40-CL-37076506 | Unavailable |
-| 31.40-CL-36874825 | https://cold-na-phx-4.gofile.io/download/web/0ccf9adf-7351-4994-84e4-f4459cd890b6/Fortnite%2031.40.zip |
+| 31.40-CL-36874825 | Unavailable |
 | 31.30-CL-36600465 | Unavailable |
 | 31.20-CL-36348034 | Unavailable |
-| 31.20-CL-36253989 | https://drive.google.com/file/d/1zzgcJTe4EtMBFB5yP-M5uvm88SJo6HkK/view |
+| 31.20-CL-36253989 | Unavailable |
 | 31.10-CL-35815136 | Unavailable |
 | 31.00-CL-35447195 | Unavailable |
 
@@ -145,7 +146,7 @@ For UEFN Builds head over to https://github.com/Helix-Dev-Q/UEFN-Archive for the
 ## Chapter 5 Season 2
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 29.40-CL-33629566 | https://fn-builds.repressoh.it/29.40.rar | https://gofile.io/d/uXtYnG
+| 29.40-CL-33629566 | https://fn-builds.repressoh.it/29.40.rar | 
 | 29.40-CL-33502036 | https://fn-builds.repressoh.it/29.40-CL-33502036.rar |
 | 29.40-CL-33291686 | https://fn-builds.repressoh.it/29.40-CL-33291686.rar |
 | 29.30-CL-32982357 | https://cold-na-phx-2.gofile.io/download/web/39d52172-deb2-4d85-a1cf-6821276272a5/29.30-CL-32982357.7z |
@@ -204,7 +205,7 @@ For UEFN Builds head over to https://github.com/Helix-Dev-Q/UEFN-Archive for the
 | 24.40-CL-25420516 | Unavailable |
 | 24.30-CL-25347382 | Unavailable |
 | 24.30-CL-25210886 | Unavailable |
-| 24.20-CL-25156858 | https://gofile.io/d/cw0eee | https://fn-builds.repressoh.it/24.20-CL-25156858.zip | https://store10.gofile.io/download/web/0390fe8d-f51c-4e5e-9699-05b3319d8562/24.20-CL-25156858.zip | https://archive.org/download/24.20-cl-25156858/24.20-CL-25156858.zip |
+| 24.20-CL-25156858 | https://gofile.io/d/cw0eee | https://fn-builds.repressoh.it/24.20-CL-25156858.zip | https://archive.org/download/24.20-cl-25156858/24.20-CL-25156858.zip |
 | 24.20-CL-25058254 | Unavailable |
 | 24.20-CL-25019967 | Unavailable |
 | 24.20-CL-24939793 | https://r2.ploosh.dev/24.20.zip | https://r2.kovryn.xyz/24.20.zip | https://cdn.cbn.lol/24.20 | https://fn-builds.repressoh.it/24.20-CL-24939793.rar |
@@ -212,7 +213,7 @@ For UEFN Builds head over to https://github.com/Helix-Dev-Q/UEFN-Archive for the
 | 24.10-CL-24770548 | Unavailable |
 | 24.01-CL-24757023 | Lost |
 | 24.01-CL-24672685 | Unavailable |
-| 24.00-CL-24554913 | https://gofile.io/d/GOSBx4 | https://fn-builds.repressoh.it/24.00-CL-24554913.zip | https://store3.gofile.io/download/web/2cb72177-feaa-4466-a3d9-a1812eca1337/24.00-CL-24554913.zip |
+| 24.00-CL-24554913 | https://gofile.io/d/GOSBx4 | https://fn-builds.repressoh.it/24.00-CL-24554913.zip |  |
 
 ## Chapter 4 Season 1
 | Build | Download | Alternative Download | Alternative Download | Alternative Download
@@ -220,7 +221,7 @@ For UEFN Builds head over to https://github.com/Helix-Dev-Q/UEFN-Archive for the
 | 23.50-CL-24441668 | https://public.simplyblk.xyz/23.50.zip | https://titanac.xyz/23.50.rar | https://r2.kovryn.xyz/23.50.rar | https://fn-builds.repressoh.it/23.50.zip |
 | 23.50-CL-24376996 | Lost |
 | 23.40-CL-24087481 | https://public.simplyblk.xyz/23.40.zip | https://fn-builds.repressoh.it/23.40.zip | https://cold-na-phx-6.gofile.io/download/web/150f4045-1dd8-4421-81e2-ef3ee8c64fec/23.40-CL-24087481.zip |
-| 23.30-CL-23986860 | Unavailable | https://fn-builds.repressoh.it/23.30.zip |
+| 23.30-CL-23986860 | https://fn-builds.repressoh.it/23.30.zip |
 | 23.30-CL-23901854 | Lost |
 | 23.20-CL-23783097 | https://fnbuilds.site/23.20-CL-23783097.zip |
 | 23.20-CL-23659353 | Unavailable |
@@ -231,7 +232,7 @@ For UEFN Builds head over to https://github.com/Helix-Dev-Q/UEFN-Archive for the
 ## Chapter 3  Season  4
 | Build | Download | Alternative Download | Alternative Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|---------------|---------------|
-| 22.40-CL-23070899 | https://gofile.io/d/uwbcWq | https://ai-repertoire.com/download.html?token=1d051e390ae1498581d41c46541a6b6b | https://fn-builds.repressoh.it/22.40.rar | https://buzzheavier.com/vh8pa7ikas1z | https://store4.gofile.io/download/web/103fc009-2595-463f-926b-63c49f542dc6/22.40.rar |
+| 22.40-CL-23070899 | https://gofile.io/d/uwbcWq | https://ai-repertoire.com/download.html?token=1d051e390ae1498581d41c46541a6b6b | https://fn-builds.repressoh.it/22.40.rar | https://buzzheavier.com/vh8pa7ikas1z |  |
 | 22.30-CL-22803135 | Unavailable |
 | 22.20-CL-22600409 | https://fnbuilds.site/22.20-CL-22600409.rar |
 | 22.20-CL-22523251 | Lost |
@@ -245,7 +246,7 @@ For UEFN Builds head over to https://github.com/Helix-Dev-Q/UEFN-Archive for the
 ## Chapter 3 Season  3
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 21.51-CL-21735703 | https://public.simplyblk.xyz/21.51.7z | https://fn-builds.repressoh.it/21.51.7z | https://fnbuilds.site/21.51.7z
+| 21.51-CL-21735703 | https://fnbuilds.site/21.51.7z | https://fn-builds.repressoh.it/21.51.7z | https://public.simplyblk.xyz/21.51.7z
 | 21.50-CL-21657658 | https://public.simplyblk.xyz/21.50.zip | https://fn-builds.repressoh.it/21.50.zip |
 | 21.40-CL-21407327 | https://fn-builds.repressoh.it/21.40-CL-21407327.7z |
 | 21.40-CL-21348157 | Lost |
@@ -277,18 +278,18 @@ For UEFN Builds head over to https://github.com/Helix-Dev-Q/UEFN-Archive for the
 ## Chapter 3 Season  1
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 19.40-CL-19215531 | https://public.simplyblk.xyz/19.40.7z | https://www.dropbox.com/scl/fi/yh62d1ay5v87deks1g53d/19.40.zip?rlkey=y6fo0ktol2ayf7wpdw1qooj3z&dl=1 | https://fn-builds.repressoh.it/19.40.7z |
+| 19.40-CL-19215531 | https://public.simplyblk.xyz/19.40.7z | https://fn-builds.repressoh.it/19.40.7z |  |
 | 19.40-CL-19167615 | Unavailable |
 | 19.30-CL-19027703 | https://public.simplyblk.xyz/19.30.rar | https://fn-builds.repressoh.it/19.30-CL-19027703.rar |
 | 19.30-CL-18948597 | Unavailable |
 | 19.20-CL-18775446 | Unavailable |
 | 19.10-CL-18675304 | https://public.simplyblk.xyz/19.10.rar | https://fn-builds.repressoh.it/19.10.rar | 
 | 19.10-CL-18640491 | Lost |
-| 19.10-CL-18581131 | Lost |
-| 19.01-CL-18489740 | https://r2.ploosh.dev/19.01.zip | https://archive.org/download/Fortnite-19.01-CL-18489740.zip/19.01-CL-18489740.zip | https://fn-builds.repressoh.it/19.01-CL-18489740.zip |
-| 19.01-CL-18415863 | Lost |
+| 19.10-CL-18581131 | Lost | 
+| 19.01-CL-18489740 | https://r2.ploosh.dev/19.01.zip | https://archive.org/download/Fortnite-19.01-CL-18489740.zip/19.01-CL-18489740.zip | https://fn-builds.repressoh.it/19.01-CL-18489740.zip | https://public.simplyblk.xyz/19.01.zip | 
+| 19.01-CL-18415863 | https://archive.org/compress/fortnite-19.01.7z |
 | 19.00-CL-18380290 | Unavailable |
-| 19.00-CL-18335626 | https://public.simplyblk.xyz/19.01.zip | https://archive.org/compress/fortnite-19.01.7z | https://fn-builds.repressoh.it/19.00.zip |
+| 19.00-CL-18335626 | https://fn-builds.repressoh.it/19.00.zip |
 
 ## Chapter 2 Season  8
 | Build | Download | Alternative Download | Alternative Download
@@ -311,7 +312,7 @@ For UEFN Builds head over to https://github.com/Helix-Dev-Q/UEFN-Archive for the
 | 17.40-CL-17269705 | https://download.fn-archive.com/FortniteClient-17.40-CL-17269705.7z |
 | 17.40-CL-17215766 | Lost |
 | 17.30-CL-17004569 | https://public.simplyblk.xyz/17.30.zip | https://cdn.fortmp.dev/17.30.zip |
-| 17.21-CL-16967001 | Unavailable |
+| 17.21-CL-16967001 | https://fn-builds.repressoh.it/17.21-CL-16967001.7z |
 | 17.21-CL-16949556 | Lost |
 | 17.20-CL-16868155 | https://download.fn-archive.com/FortniteClient-17.20-CL-16868155.7z |
 | 17.10-CL-16745144 | https://public.simplyblk.xyz/17.10.rar |
@@ -369,10 +370,10 @@ For UEFN Builds head over to https://github.com/Helix-Dev-Q/UEFN-Archive for the
 | 14.40-CL-14550713 | https://public.simplyblk.xyz/14.40.rar | https://cdn.solarisfn.dev/Builds/14.40.rar | https://nebulafn.com/downloads/14.40.zip |
 | 14.40-CL-14512399 | Lost |
 | 14.30-CL-14456520 | https://cdn.solarisfn.dev/Builds/14.30.zip | https://gofile.io/d/47NC7f |
-| 14.20-CL-14384759 | Unavailable |
+| 14.20-CL-14384759 | https://fn-builds.repressoh.it/14.20-CL-14384759.rar |
 | 14.20-CL-14375974 | Lost |
 | 14.20-CL-14354056 | Lost |
-| 14.10-CL-14312695 | Unavailable |
+| 14.10-CL-14312695 | https://fn-builds.repressoh.it/14.10-CL-14312695.rar |
 | 14.10-CL-14288110 | Lost |
 | 14.10-CL-14276912 | Lost |
 | 14.00-CL-14211474 | https://public.simplyblk.xyz/14.00.rar |
