@@ -324,7 +324,7 @@ For UEFN Builds head over to https://github.com/Helix-Dev-Q/UEFN-Archive for the
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 16.50-CL-16469788 | Unavailable |
-| 16.50-CL-16432754 | https://drive.google.com/file/d/15Rr_mkevAvbch1DF54ntHXyj139-HJOx/view |
+| 16.50-CL-16432754 | https://fnbuilds.site/%2B%2BFortnite%2BRelease-15.50-CL-15526472.zip |https://drive.google.com/file/d/15Rr_mkevAvbch1DF54ntHXyj139-HJOx/view |
 | 16.40-CL-16218553 | https://public.simplyblk.xyz/16.40.rar |
 | 16.30-CL-16163563 | https://public.simplyblk.xyz/16.30.zip | https://drive.google.com/file/d/1lDvUdineKpElf9H92zB1zw13IINskiHi/view |
 | 16.30-CL-16086208 | Lost |
@@ -342,7 +342,7 @@ For UEFN Builds head over to https://github.com/Helix-Dev-Q/UEFN-Archive for the
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 15.50-CL-15570449 | Unavailable |
-| 15.50-CL-15526472 | https://drive.google.com/file/d/1GQicxFPRBsXDsh4hehRNk9M1ACeyglTE/view |
+| 15.50-CL-15526472 | https://fnbuilds.site/%2B%2BFortnite%2BRelease-15.50-CL-15526472.zip |https://drive.google.com/file/d/1GQicxFPRBsXDsh4hehRNk9M1ACeyglTE/view |
 | 15.40-CL-15496915 | Unavailable |
 | 15.40-CL-15424013 | Lost |
 | 15.40-CL-15419568 | Lost |
@@ -369,7 +369,7 @@ For UEFN Builds head over to https://github.com/Helix-Dev-Q/UEFN-Archive for the
 | 14.50-CL-14617811 | Lost |
 | 14.40-CL-14550713 | https://public.simplyblk.xyz/14.40.rar | https://cdn.solarisfn.dev/Builds/14.40.rar | https://nebulafn.com/downloads/14.40.zip |
 | 14.40-CL-14512399 | Lost |
-| 14.30-CL-14456520 | https://cdn.solarisfn.dev/Builds/14.30.zip | https://gofile.io/d/47NC7f |
+| 14.30-CL-14456520 | https://fnbuilds.site/14.30-CL-14456520.rar | https://gofile.io/d/47NC7f |
 | 14.20-CL-14384759 | https://fn-builds.repressoh.it/14.20-CL-14384759.rar |
 | 14.20-CL-14375974 | Lost |
 | 14.20-CL-14354056 | Lost |
