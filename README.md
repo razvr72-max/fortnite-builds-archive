@@ -294,7 +294,7 @@ For UEFN Builds head over to https://github.com/Helix-Dev-Q/UEFN-Archive for the
 ## Chapter 2 Season  8
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 18.40-CL-18163738 | https://public.simplyblk.xyz/18.40.zip | https://fn-builds.repressoh.it/18.40-CL-18163738-Windows.zip |
+| 18.40-CL-18163738 | https://public.simplyblk.xyz/18.40.zip | https://fn-builds.repressoh.it/18.40-CL-18163738-Windows.zip | https://cdn.astrafn.site/18.40.7z
 | 18.30-CL-17882303 | https://public.simplyblk.xyz/18.30.7z | https://fn-builds.repressoh.it/18.30.7z |
 | 18.21-CL-17811397 | https://download.fn-archive.com/FortniteClient-18.21-CL-17811397.7z | https://fn-builds.repressoh.it/FortniteClient-18.21-CL-17811397.7z | https://fn-builds.repressoh.it/18.21-CL-17811397.7z |
 | 18.20-CL-17792290 | https://download.fn-archive.com/FortniteClient-18.20-CL-17792290.7z | https://fn-builds.repressoh.it/18.20-CL-17792290.7z |
