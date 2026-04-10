@@ -282,7 +282,7 @@ For UEFN Builds head over to https://github.com/Helix-Dev-Q/UEFN-Archive for the
 | 19.40-CL-19167615 | Unavailable |
 | 19.30-CL-19027703 | https://public.simplyblk.xyz/19.30.rar | https://fn-builds.repressoh.it/19.30-CL-19027703.rar |
 | 19.30-CL-18948597 | Unavailable |
-| 19.20-CL-18775446 | Unavailable |
+| 19.20-CL-18775446 | https://fuckingfast.net/x84iiqbpt8kp |
 | 19.10-CL-18675304 | https://public.simplyblk.xyz/19.10.rar | https://fn-builds.repressoh.it/19.10.rar | 
 | 19.10-CL-18640491 | Lost |
 | 19.10-CL-18581131 | Lost | 
