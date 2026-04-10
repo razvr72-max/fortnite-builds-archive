@@ -106,7 +106,7 @@ For UEFN Builds head over to https://github.com/Helix-Dev-Q/UEFN-Archive for the
 | 33.20-CL-39082670 | https://archive.org/download/fortniteBuild33.20/Fortnite.7z |
 | 33.11-CL-38773622 | Unavailable |
 | 33.10-CL-38630093 | Unavailable |
-| 33.00-CL-38504598 | Unavailable |
+| 33.00-CL-38504598 | https://fnbuilds.site/33.00-CL-38504598.zip |
 | 33.00-CL-38324112 | Unavailable |
 
 ## Chapter 5 Season  5 (Chapter 5 Season Remix)
