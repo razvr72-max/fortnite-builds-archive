@@ -9,6 +9,7 @@ For UEFN Builds head over to https://github.com/Helix-Dev-Q/UEFN-Archive for the
 - Credits go to ElectricArchive for s37 builds (which i thought were lost) and other builds as well like s38, s39, s36, s35
 - Credits go to Jalen, for finding lost/unavailable download links
 - Credits go to Timmy (Owner of Carbon) for giving me one of the s30 build which was unavailable
+- Credits go to Aorux for some of his download links that have been added
 - Credits go to me for uploading some builds onto here as well 
 
 And if your download link is on this archive and your not in the credits make an issue or just dm me on discord 
