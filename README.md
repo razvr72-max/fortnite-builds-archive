@@ -2,14 +2,16 @@ Hello, Welcome to Llamaqwerty fork, Which is one of top 3 largest build archives
 
 For UEFN Builds head over to https://github.com/Helix-Dev-Q/UEFN-Archive for them
 
-## Note:
+## Credits:
 - Credits go Ka Pum on discord for providing me some lost/unavailable builds
 - Credits to ploosh for many builds here, but 2 specificaly are 26.30-28688692, and 26.30-28509302
 - Credits go Pak for many og builds and some recent ones as well
 - Credits go to ElectricArchive for s37 builds (which i thought were lost) and other builds as well like s38, s39, s36, s35
-- Credits go to Jaelan, for some of the downlaod links that he has made (i got put Fortforge.dev website 🥹)
+- Credits go to Jalen, for finding lost/unavailable download links
 - Credits go to Timmy (Owner of Carbon) for giving me one of the s30 build which was unavailable
 - Credits go to me for uploading some builds onto here as well 
+
+And if your download link is on this archive and your not in the credits make an issue or just dm me on discord 
 
 # Errors
 - If i made any errors like putting builds in the wrong spot make a issue for it and tell me where its supposed to be and i'll put it in the right spot or if there is a download link thats down make an issue as well (ik s39 builds arent working the creator of it is adding them back soon)
