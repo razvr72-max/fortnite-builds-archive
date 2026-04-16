@@ -10,7 +10,8 @@ For UEFN Builds head over to https://github.com/Helix-Dev-Q/UEFN-Archive for the
 - Credits go to Jalen, for finding lost/unavailable download links
 - Credits go to Timmy (Owner of Carbon) for giving me one of the s30 build which was unavailable
 - Credits go to Aorux for some of his download links that have been added
-- Credits  go to Reprossoh for a couple of his download links that are on here 
+- Credits go to Reprossoh for a couple of his download links that are on here
+- Cedits go to Primus03 for 19.20 and 26.00
 - Credits go to me for uploading some builds onto here as well 
 
 And if your download link is on this archive and your not in the credits make an issue or just dm me on discord 
@@ -187,7 +188,7 @@ And if your download link is on this archive and your not in the credits make an
 | 26.30-CL-28509302 | https://r2.ploosh.dev/26.30.zip | https://fn-builds.repressoh.it/26.30-CL-28509302.zip |
 | 26.20-CL-28096793 | Unavailable |
 | 26.10-CL-27681420 | Unavailable |
-| 26.00-CL-27424790 | Unavailable |
+| 26.00-CL-27424790 | https://fnbuilds.site/26.00-CL-27424790.7z |
 | 26.00-CL-27233190 | Unavailable |
 
 ## Chapter 4 Season  3
@@ -286,7 +287,7 @@ And if your download link is on this archive and your not in the credits make an
 | 19.40-CL-19167615 | Unavailable |
 | 19.30-CL-19027703 | https://public.simplyblk.xyz/19.30.rar | https://fn-builds.repressoh.it/19.30-CL-19027703.rar |
 | 19.30-CL-18948597 | Unavailable |
-| 19.20-CL-18775446 | https://fuckingfast.net/x84iiqbpt8kp |
+| 19.20-CL-18775446 | https://fnbuilds.site/19.20-CL-18775446.rar |
 | 19.10-CL-18675304 | https://public.simplyblk.xyz/19.10.rar | https://fn-builds.repressoh.it/19.10.rar | 
 | 19.10-CL-18640491 | Lost |
 | 19.10-CL-18581131 | Lost | 
