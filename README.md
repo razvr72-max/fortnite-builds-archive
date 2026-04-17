@@ -118,7 +118,7 @@ And if your download link is on this archive and your not in the credits make an
 ## Chapter 5 Season  5 (Chapter 5 Season Remix)
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 32.11-CL-38371047 | https://fn-builds.repressoh.it/32.11-CL-38371047.rar | https://r2.ploosh.dev/32.11.7z
+| 32.11-CL-38371047 | https://fn-builds.repressoh.it/32.11-CL-38371047.rar | https://r2.ploosh.dev/32.11.7z | [No HD_Texures](https://r2.ploosh.dev/32.11.zip)
 | 32.11-CL-38202817 | https://drive.google.com/file/d/1X-K3cyFsqswUorH-2REQEKuLwh5oaEh8/view |
 | 32.10-CL-37958378 | Unavailable |
 | 32.00-CL-37770125 | Unavailable |
