@@ -56,16 +56,16 @@ And if your download link is on this archive and your not in the credits make an
 |--------------|---------------|---------------|---------------|
 | 37.51-CL-46968237 | https://archive.org/download/fn-v37-archive/37.51-CL-46968237.zip |
 | 37.50-CL-46578011 | https://archive.org/download/fn-v37-archive/37.50-CL-46578011.zip |
-| 37.40-CL-46295673 | https://archive.org/download/fn-v37-archive-0/37.40-CL-46295673.zip |
-| 37.31-CL-46047957 | https://archive.org/download/fn-v37-archive-0/37.31-CL-46047957.zip |
-| 37.30-CL-45814998 | https://archive.org/download/fn-v37-archive-0/37.30-CL-45814998.zip |
-| 37.20-CL-45679054 | https://archive.org/download/fn-v37-archive-0/37.20-CL-45679054.zip |
-| 37.20-CL-45566402 | https://archive.org/download/fn-v37-archive-0/37.20-CL-45566402.zip |
-| 37.10-CL-45566377 | https://archive.org/download/fn-v37-archive-0/37.10-CL-45566377.zip |
-| 37.10-CL-45056983 | https://archive.org/download/fn-v37-archive-0/37.10-CL-45056983.zip |
-| 37.00-CL-44765404 | https://archive.org/download/fn-v37-archive-0/37.00-CL-44765404.zip |
+| 37.40-CL-46295673 | https://archive.org/download/fn-v37-archive/37.40-CL-46295673.zip |
+| 37.31-CL-46047957 | https://archive.org/download/fn-v37-archive/37.31-CL-46047957.zip |
+| 37.30-CL-45814998 | https://archive.org/download/fn-v37-archive/37.30-CL-45814998.zip |
+| 37.20-CL-45679054 | https://archive.org/download/fn-v37-archive/37.20-CL-45679054.zip |
+| 37.20-CL-45566402 | https://archive.org/download/fn-v37-archive/37.20-CL-45566402.zip |
+| 37.10-CL-45566377 | https://archive.org/download/fn-v37-archive/37.10-CL-45566377.zip |
+| 37.10-CL-45056983 | https://archive.org/download/fn-v37-archive/37.10-CL-45056983.zip |
+| 37.00-CL-44765404 | https://archive.org/download/fn-v37-archive/37.00-CL-44765404.zip |
 | 37.00-CL-44501951 | I'll add it soon i just accidentlly deleted from my PC |
-| 37.00-CL-33501951 | https://archive.org/download/fn-v37-archive-0/37.00-CL-33501951.zip |
+| 37.00-CL-33501951 | https://archive.org/download/fn-v37-archive/37.00-CL-33501951.zip |
 
 ## Chapter 6 Season  3
 | Build | Download | Alternative Download | Alternative Download
