@@ -211,15 +211,15 @@ And if your download link is on this archive and your not in the credits make an
 | 24.40-CL-25420516 | Unavailable |
 | 24.30-CL-25347382 | Unavailable |
 | 24.30-CL-25210886 | Unavailable |
-| 24.20-CL-25156858 | https://gofile.io/d/cw0eee | https://fn-builds.repressoh.it/24.20-CL-25156858.zip | https://archive.org/download/24.20-cl-25156858/24.20-CL-25156858.zip |
-| 24.20-CL-25058254 | Unavailable |
-| 24.20-CL-25019967 | Unavailable |
-| 24.20-CL-24939793 | https://r2.ploosh.dev/24.20.zip | https://r2.kovryn.xyz/24.20.zip | https://cdn.cbn.lol/24.20 | https://fn-builds.repressoh.it/24.20-CL-24939793.rar |
+| 24.20-CL-25156858 | https://gofile.io/d/cw0eee | https://fn-builds.repressoh.it/24.20-CL-25156858.zip | https://archive.org/download/24.20-cl-25156858/24.20-CL-25156858.zip | https://archive.org/download/fn-v24-archive/builds/24.20-CL-25156858.7z
+| 24.20-CL-25058254 | https://archive.org/download/fn-v24-archive/builds/24.20-CL-25058254.7z |
+| 24.20-CL-25019967 | https://archive.org/download/fn-v24-archive/builds/24.20-CL-25019967.7z |
+| 24.20-CL-24939793 | https://r2.ploosh.dev/24.20.zip | https://r2.kovryn.xyz/24.20.zip | https://cdn.cbn.lol/24.20 | https://fn-builds.repressoh.it/24.20-CL-24939793.rar | https://archive.org/download/fn-v24-archive/builds/24.20-CL-24939793.7z
 | 24.10-CL-24903530 | Unavailable |
 | 24.10-CL-24770548 | Unavailable |
 | 24.01-CL-24757023 | Lost |
 | 24.01-CL-24672685 | Unavailable |
-| 24.00-CL-24554913 | https://gofile.io/d/GOSBx4 | https://fn-builds.repressoh.it/24.00-CL-24554913.zip |  |
+| 24.00-CL-24554913 | https://gofile.io/d/GOSBx4 | https://fn-builds.repressoh.it/24.00-CL-24554913.zip | https://archive.org/download/fn-v24-archive/builds/24.00-CL-24554913.7z |
 
 ## Chapter 4 Season 1
 | Build | Download | Alternative Download | Alternative Download | Alternative Download
@@ -423,25 +423,25 @@ And if your download link is on this archive and your not in the credits make an
 ## Chapter 2 Season  1
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 11.50-CL-11265652 | Unavailable |
+| 11.50-CL-11265652 | https://archive.org/download/fn-v11-archive/builds/11.50-CL-11265652.7z |
 | 11.50-CL-11204868 | Lost |
 | 11.40-CL-11109625 | Lost |
-| 11.40-CL-11039906 | https://download.fn-archive.com/FortniteClient-11.40-CL-11039906.7z |
+| 11.40-CL-11039906 | https://download.fn-archive.com/FortniteClient-11.40-CL-11039906.7z | https://archive.org/download/fn-v11-archive/builds/11.40-CL-11039906.7z
 | 11.40-CL-10951104 | Lost |
-| 11.31-CL-10800459 | https://public.simplyblk.xyz/11.31.rar | https://drive.google.com/file/d/1s3AVQ39T56uDrGrIEk9djHqVucW5Yx_J/view |
+| 11.31-CL-10800459 | https://public.simplyblk.xyz/11.31.rar | https://drive.google.com/file/d/1s3AVQ39T56uDrGrIEk9djHqVucW5Yx_J/view | https://archive.org/download/fn-v11-archive/builds/11.31-CL-10800459.7z
 | 11.31-CL-10795579 | Lost |
 | 11.31-CL-10760473 | Lost |
-| 11.30-CL-10708866 | https://public.simplyblk.xyz/11.30.7z |
+| 11.30-CL-10708866 | https://public.simplyblk.xyz/11.30.7z | https://archive.org/download/fn-v11-archive/builds/11.30-CL-10708866.7z
 | 11.30-CL-10639804 | Lost |
-| 11.21-CL-10481509 | Unavailable |
+| 11.21-CL-10481509 | https://archive.org/download/fn-v11-archive/builds/11.21-CL-10481509.7z |
 | 11.20-CL-10328358 | Lost |
-| 11.20-CL-10297577 | Unavailable |
-| 11.11-CL-10082788 | Unavailable |
-| 11.10-CL-9901083 | https://download.fn-archive.com/FortniteClient-11.10-CL-9901083.7z |
+| 11.20-CL-10297577 | https://archive.org/download/fn-v11-archive/builds/11.20-CL-10297577.7z |
+| 11.11-CL-10082788 | https://archive.org/download/fn-v11-archive/builds/11.11-CL-10082788.7z |
+| 11.10-CL-9901083 | https://download.fn-archive.com/FortniteClient-11.10-CL-9901083.7z | https://archive.org/download/fn-v11-archive/builds/11.10-CL-9901083.7z
 | 11.10-CL-9844520 | Unavailable |
-| 11.01-CL-9728272 | Unavailable
+| 11.01-CL-9728272 | https://archive.org/download/fn-v11-archive/builds/11.01-CL-9728272.7z
 | 11.00-CL-9603448 | https://public.simplyblk.xyz/11.00.zip |
-| 11.00-CL-9562734 | https://archive.org/download/Fortnite-11.00-CL-9562734.7z/11.00-CL-9562734.7z |
+| 11.00-CL-9562734 | https://archive.org/download/Fortnite-11.00-CL-9562734.7z/11.00-CL-9562734.7z | https://archive.org/download/fn-v11-archive/11.00-CL-9562734.7z
 
 ## Chapter 1 Season  10
 | Build | Download | Alternative Download | Alternative Download
