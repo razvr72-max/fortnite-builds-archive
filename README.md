@@ -22,7 +22,9 @@ And if your download link is on this archive and your not in the credits make an
 ## Chapter 7 Season  2 
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 40.10-CL-52157884 | Current |
+| 40.30-CL-53093531 | Unavailable |
+| 40.20-CL-52900211 | Unavailable |
+| 40.20-CL-52463280 | Unavailable |
 | 40.10-CL-52157884 | Unavailable |
 | 40.00-CL-51995682 | [note this version has stw only reason why its bigger](https://archive.org/download/40.00-CL-51746096/40.00-CL-51995682.zip) |
 | 40.00-CL-51746096 | https://archive.org/download/40.00-CL-51746096/40.00-CL-51746096.zip | https://fn-builds.repressoh.it/40.00-CL-51746096.zip
@@ -389,7 +391,7 @@ And if your download link is on this archive and your not in the credits make an
 ## Chapter 2 Season  3
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 13.40-CL-14113327 | https://public.simplyblk.xyz/13.40.zip | https://forcedfnbuilds.website/13.40.rar |
+| 13.40-CL-14113327 | https://public.simplyblk.xyz/13.40.zip | [Bugged, Wouldn't Reccomend using it](https://forcedfnbuilds.website/13.40.rar) | https://gofile.io/d/JYmlgo
 | 13.40-CL-14036559 | Unavailable |
 | 13.40-CL-14008768 | Lost |
 | 13.30-CL-13884634 | https://public.simplyblk.xyz/13.30.rar |
