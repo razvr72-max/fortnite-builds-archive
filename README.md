@@ -515,7 +515,7 @@ ___
 | 9.20 (9.20-CL-6822798) | [1](https://public.simplyblk.xyz/9.20.rar) | [2](https://archive.org/download/fn-v9-archive/builds/9.20-CL-6822798.7z)
 | 9.10.2 (9.10-CL-6639283) | [1](https://public.simplyblk.xyz/9.10.rar) | [2](https://builds.rebootfn.org/9.10.rar) | [3](https://cdn.solarisfn.dev/Builds/9.10.zip) | [4](https://archive.org/download/fn-v9-archive/builds/9.10-CL-6639283.7z)
 | 9.10.1 (9.10-CL-6616201) | Lost |
-| 9.10 (9.10-CL-6573057) | Lost |
+| 9.10 (9.10-CL-6573057) | [1](https://dl.fortforge.co.uk/download/59cdc0e6-a497-46ad-825e-17f5c8f35115/build?queue_id=040adcbd-7a55-4d5a-b16d-fe1de6e3613a&download=1&landing=1) |
 | 9.01 (9.01-CL-6428087) | [1](https://public.simplyblk.xyz/9.01.zip) | [2](https://builds.rebootfn.org/9.01.zip) | [3](https://archive.org/download/fn-v9-archive/builds/9.01-CL-6428087.7z)
 | 9.00 (9.00-CL-6337466) | [1](https://public.simplyblk.xyz/9.00.zip) | [2](https://builds.rebootfn.org/9.00.zip) | [3](https://archive.org/download/fn-v9-archive/builds/9.00-CL-6337466.7z)
 
