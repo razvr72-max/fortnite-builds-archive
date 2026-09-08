@@ -330,7 +330,7 @@ ___
 | 19.30-CL-19027703 | [1](https://public.simplyblk.xyz/19.30.rar) | [2](https://fn-builds.repressoh.it/19.30-CL-19027703.rar) | [3](https://cdn.cbn.lol/19.30)
 | 19.30-CL-18948597 | Unavailable |
 | 19.20-CL-18775446 | [1](https://buildsfn.s3.us-east-005.backblazeb2.com/Ch3/S1/19.20-CL-18775446.7z) |
-| 19.10-CL-18675304 | [1](https://fnbuilds.site/FortniteClient-19.10-CL-18675304-Windows.7z) | [2](https://fn-builds.repressoh.it/19.10.rar) | 
+| 19.10-CL-18675304 | [1](https://archive.org/download/fn-v19-archives/19.10-CL-18675304.7z) | 
 | 19.10-CL-18640491 | Lost |
 | 19.10-CL-18581131 | Lost | 
 | 19.01-CL-18489740 | [1](https://r2.ploosh.dev/19.01.zip) | [2](https://archive.org/download/Fortnite-19.01-CL-18489740.zip/19.01-CL-18489740.zip) | [3](https://fn-builds.repressoh.it/19.01-CL-18489740.zip) | [4](https://public.simplyblk.xyz/19.01.zip) | 
