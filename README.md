@@ -217,9 +217,9 @@ ___
 ## Chapter 4 Season  5 (Chapter 4 Season OG)
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 27.11-CL-29739262 | [1](https://gofile.io/d/MfJHqg) | [2](https://pub-220306d029514fbba26c1ffc2ef76e3e.r2.dev/27.11.rar) | [3](https://fn-builds.repressoh.it/27.11-CL-29739262.7z) |
-| 27.10-CL-29552510 | [1](https://cdn.cbn.lol/27.10) | [2](https://fn-builds.repressoh.it/27.10-CL-29552510.zip) |
-| 27.00-CL-29072304 | [1](https://cdn.cbn.lol/27.00) | [2](https://fn-builds.repressoh.it/27.00-CL-29072304.zip) |
+| 27.11-CL-29739262 | [1](https://gofile.io/d/MfJHqg) | [2](https://pub-220306d029514fbba26c1ffc2ef76e3e.r2.dev/27.11.rar) |
+| 27.10-CL-29552510 | [1](https://cdn.cbn.lol/27.10) |
+| 27.00-CL-29072304 | [1](https://cdn.cbn.lol/27.00) |
 
 ## Chapter 4 Season  4
 | Build | Download | Alternative Download | Alternative Download
@@ -329,11 +329,11 @@ ___
 | 19.40-CL-19167615 | Unavailable |
 | 19.30-CL-19027703 | [1](https://public.simplyblk.xyz/19.30.rar) | [2](https://fn-builds.repressoh.it/19.30-CL-19027703.rar) | [3](https://cdn.cbn.lol/19.30)
 | 19.30-CL-18948597 | Unavailable |
-| 19.20-CL-18775446 | [1](https://buildsfn.s3.us-east-005.backblazeb2.com/Ch3/S1/19.20-CL-18775446.7z) |
+| 19.20-CL-18775446 | [1](https://buildsfn.s3.us-east-005.backblazeb2.com/Ch3/S1/19.20-CL-18775446.7z) | [2](https://archive.org/download/fn-v19-archives/19.20-CL-18775446.7z) |
 | 19.10-CL-18675304 | [1](https://archive.org/download/fn-v19-archives/19.10-CL-18675304.7z) | 
 | 19.10-CL-18640491 | Lost |
 | 19.10-CL-18581131 | Lost | 
-| 19.01-CL-18489740 | [1](https://r2.ploosh.dev/19.01.zip) | [2](https://archive.org/download/Fortnite-19.01-CL-18489740.zip/19.01-CL-18489740.zip) | [3](https://fn-builds.repressoh.it/19.01-CL-18489740.zip) | [4](https://public.simplyblk.xyz/19.01.zip) | 
+| 19.01-CL-18489740 | [1](https://r2.ploosh.dev/19.01.zip) | [2](https://archive.org/download/Fortnite-19.01-CL-18489740.zip/19.01-CL-18489740.zip) | 
 | 19.01-CL-18415863 | Unavailable |
 | 19.00-CL-18380290 | Unavailable |
 | 19.00-CL-18335626 | [1](https://buildsfn.s3.us-east-005.backblazeb2.com/Ch3/19.00-CL-18335626.7z) | [2](https://archive.org/download/fn-v19-archives/19.00-CL-18335626.7z) |
@@ -343,10 +343,10 @@ ___
 |--------------|---------------|---------------|---------------|
 | 18.40-CL-18163738 | [1](https://cdn.cbn.lol/18.40) | [2](https://archive.org/download/fn-v18-archive/builds/18.40-CL-18163738.7z)
 | 18.30-CL-17882303 | [1](https://buildsfn.s3.us-east-005.backblazeb2.com/Ch2/18.30-CL-17882303.7z) | [2](https://archive.org/download/fn-v18-archive/builds/18.30-CL-17882303.7z) | [3](https://fn-builds.repressoh.it/18.30.7z) |
-| 18.21-CL-17811397 | [1](https://download.fn-archive.com/FortniteClient-18.21-CL-17811397.7z) | [2](https://fn-builds.repressoh.it/FortniteClient-18.21-CL-17811397.7z) | [3](https://archive.org/download/fn-v18-archive/builds/18.21-CL-17811397.7z) |
-| 18.20-CL-17792290 | [1](https://download.fn-archive.com/FortniteClient-18.20-CL-17792290.7z) | [2](https://fn-builds.repressoh.it/18.20-CL-17792290.7z) | [3](https://archive.org/download/fn-v18-archive/builds/18.20-CL-17792290.7z) |
-| 18.20-CL-17745267 | [1](https://cdn.cbn.lol/18.20) | [2](https://fn-builds.repressoh.it/18.20-CL-17745267.zip) | [3](https://archive.org/download/fn-v18-archive/builds/18.20-CL-17745267.7z) |
-| 18.10-CL-17661844 | [1](https://cdn.cbn.lol/18.10) | [2](https://fn-builds.repressoh.it/18.10-CL-17661844.7z) | [3](https://archive.org/download/fn-v18-archive/builds/18.10-CL-17661844.7z) |
+| 18.21-CL-17811397 | [1](https://download.fn-archive.com/FortniteClient-18.21-CL-17811397.7z) | [2](https://archive.org/download/fn-v18-archive/builds/18.21-CL-17811397.7z) |
+| 18.20-CL-17792290 | [1](https://download.fn-archive.com/FortniteClient-18.20-CL-17792290.7z) | [2](https://archive.org/download/fn-v18-archive/builds/18.20-CL-17792290.7z)
+| 18.20-CL-17745267 | [1](https://cdn.cbn.lol/18.20) | [2](https://archive.org/download/fn-v18-archive/builds/18.20-CL-17745267.7z) |
+| 18.10-CL-17661844 | [1](https://cdn.cbn.lol/18.10) | [](https://archive.org/download/fn-v18-archive/builds/18.10-CL-17661844.7z) |
 | 18.10-CL-17619277 | Lost |
 | 18.00-CL-17519952 | Unavailable |
 | 18.00-CL-17468642 | [1](https://archive.org/download/fn-v18-archive/builds/18.00-CL-17468642.7z) | [2](https://drive.google.com/file/d/1aFVVvbmrrK7BykqTVS3XR6nB-Asib5gq/view) | [3](https://fn-builds.repressoh.it/18.00.rar) |
@@ -359,13 +359,13 @@ ___
 | 17.40-CL-17269705 | [1](https://download.fn-archive.com/FortniteClient-17.40-CL-17269705.7z) | [2](https://archive.org/download/fn-v17-archive/builds/17.40-CL-17269705.7z)
 | 17.40-CL-17215766 | Lost |
 | 17.40-CL-17162853 | Lost |
-| 17.30-CL-17004569 | [1](https://cdn.fortmp.dev/17.30.zip) | [3](https://archive.org/download/fn-v17-archive/builds/17.30-CL-17004569.7z)
+| 17.30-CL-17004569 | [1](https://cdn.fortmp.dev/17.30.zip) | [3](https://archive.org/download/fn-v17-archive/builds/17.30-CL-17004569.7z) | [3](https://cdn.cbn.lol/17.30)
 | 17.21-CL-16967001 | [1](https://archive.org/download/fn-v17-archive/17.21-CL-16967001.7z) |
 | 17.21-CL-16949556 | Lost |
 | 17.20-CL-16868155 | [1](https://download.fn-archive.com/FortniteClient-17.20-CL-16868155.7z) | [2](https://archive.org/download/fn-v17-archive/builds/17.20-CL-16868155.7z)
 | 17.10-CL-16745144 | [1](https://public.simplyblk.xyz/17.10.rar) | [2](https://archive.org/download/fn-v17-archive/builds/17.10-CL-16745144.7z)
 | 17.10-CL-16701187 | Lost |
-| 17.00-CL-16593740 | [1](https://buildsfn.s3.us-east-005.backblazeb2.com/Ch2/17.00-CL-16593740.7z) | [2](https://archive.org/download/fn-v17-archive/builds/17.00-CL-16593740.7z) |
+| 17.00-CL-16593740 | [1](https://buildsfn.s3.us-east-005.backblazeb2.com/Ch2/17.00-CL-16593740.7z) | [2](https://archive.org/download/fn-v17-archive/builds/17.00-CL-16593740.7z) | [3](https://cdn.cbn.lol/17.00)
 | 17.00-CL-16555138 | Lost |
 
 ## Chapter 2 Season  6
@@ -438,7 +438,7 @@ ___
 | 13.40-CL-14036559 | Unavailable |
 | 13.40-CL-14008768 | Lost |
 | 13.30-CL-13884634 | [1](https://public.simplyblk.xyz/13.30.rar) | [2](https://archive.org/download/fn-v13-archive/builds/13.30-CL-13884634.7z)
-| 13.20-CL-13777676 | [1](https://public.simplyblk.xyz/13.20.rar) | [2](https://archive.org/download/fn-v13-archive/builds/13.20-CL-13777676.7z)
+| 13.20-CL-13777676 | [1](https://cdn.cbn.lol/13.20) | [2](https://archive.org/download/fn-v13-archive/builds/13.20-CL-13777676.7z)
 | 13.00-CL-13715544 | [1](https://archive.org/download/fortnite-cl-13715544/Fortnite-cl-13715544.7z) | [2](https://fn-builds.repressoh.it/13.00-CL-13715544.7z) | [3](https://archive.org/download/fn-v13-archive/builds/13.00-CL-13715544.7z)
 | 13.00-CL-13696059 | |
 | 13.00-CL-13649278 | [1](https://public.simplyblk.xyz/13.00.rar) | [2](https://archive.org/download/fn-v13-archive/builds/13.00-CL-13649278.7z)
